@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bạn Muốn Hẹn Hò Simulator - Gameshow Mai Mối</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Khung bao bọc ứng dụng chính -->
+  <div id="app-container">
+
+    <!-- Header dùng chung -->
+    <header class="app-header">
+      <div class="logo-area">
+        <span class="logo-icon">💖</span>
+        <div>
+          <div class="app-title">BẠN MUỐN HẸN HÒ</div>
+          <div class="app-subtitle">Gameshow Mai Mối Kiểu Truyền Hình Việt Nam</div>
+        </div>
+      </div>
+      <div class="header-actions">
+        <button id="btn-open-settings" title="Cài đặt âm thanh">⚙️ Âm thanh</button>
+        <button id="btn-nav-menu" title="Về menu chính">🏠 Menu</button>
+      </div>
+    </header>
+
+    <!-- ======================================================================
+         1. MÀN HÌNH MENU CHÍNH
+         ====================================================================== -->
+    <section id="screen-menu" class="screen active">
+      <div class="menu-hero">
+        <div class="hero-icon">💌</div>
+        <h1 class="hero-title">Bạn Muốn Hẹn Hò Simulator</h1>
+        <p class="hero-desc">
+          Trải nghiệm cảm giác ngồi trên chiếc ghế nóng trường quay, lắng nghe nhịp đập con tim qua bức rèm đỏ
+          dưới sự dẫn dắt hài hước của <strong>Chú Tư Duyên</strong> và sự dịu dàng của <strong>Chị Mai Hạnh</strong>!
+        </p>
+        <div class="mc-duo-preview">
+          <div class="mc-badge">🎤 Chú Tư Duyên (Hài hước)</div>
+          <div class="mc-badge">🌸 Chị Mai Hạnh (Dịu dàng)</div>
+        </div>
+      </div>
+
+      <div class="menu-buttons">
+        <button id="btn-start-profile" class="btn btn-primary">
+          📝 Tạo hồ sơ người chơi mới
+        </button>
+        <button id="btn-quick-play" class="btn btn-secondary">
+          ⚡ Chơi nhanh (Hồ sơ mẫu)
+        </button>
+        <button id="btn-view-guests" class="btn btn-outline">
+          👥 Danh sách 6 khách mời
+        </button>
+        <button id="btn-view-history" class="btn btn-outline">
+          📖 Sổ tay Hẹn Hò (Lịch sử ghép đôi)
+        </button>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         2. MÀN HÌNH TẠO HỒ SƠ NGƯỜI CHƠI
+         ====================================================================== -->
+    <section id="screen-profile" class="screen">
+      <div class="form-card">
+        <h2 class="form-title">Tạo Hồ Sơ Ứng Viên</h2>
+        <p class="form-subtitle">Điền thông tin để Chú Tư và Chị Mai Hạnh giới thiệu bạn trước khán giả</p>
+
+        <form id="profile-form">
+          <div class="form-grid">
+            <div class="form-group">
+              <label for="p-name">Họ và tên / Biệt danh:</label>
+              <input type="text" id="p-name" class="form-input" placeholder="Ví dụ: Hoàng Long" required value="Hoàng Long">
+            </div>
+
+            <div class="form-group">
+              <label for="p-age">Tuổi:</label>
+              <input type="number" id="p-age" class="form-input" min="18" max="60" value="26" required>
+            </div>
+
+            <div class="form-group">
+              <label for="p-gender">Giới tính:</label>
+              <select id="p-gender" class="form-select">
+                <option value="Nam" selected>Nam</option>
+                <option value="Nữ">Nữ</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="p-hometown">Quê quán:</label>
+              <input type="text" id="p-hometown" class="form-input" placeholder="Ví dụ: TP.HCM, Hà Nội, Cần Thơ..." value="TP.HCM" required>
+            </div>
+
+            <div class="form-group full-width">
+              <label for="p-job">Nghề nghiệp hiện tại:</label>
+              <input type="text" id="p-job" class="form-input" placeholder="Ví dụ: Kỹ sư xây dựng, Thiết kế, Kinh doanh..." value="Chuyên viên thiết kế" required>
+            </div>
+
+            <div class="form-group full-width">
+              <label>Nét tính cách nổi bật (chọn 2-3 nét):</label>
+              <div class="tag-selector" id="personality-tags">
+                <span class="selectable-tag selected" data-val="Vui vẻ">Vui vẻ</span>
+                <span class="selectable-tag selected" data-val="Chân thành">Chân thành</span>
+                <span class="selectable-tag" data-val="Chu đáo">Chu đáo</span>
+                <span class="selectable-tag" data-val="Hướng nội">Hướng nội</span>
+                <span class="selectable-tag" data-val="Năng động">Năng động</span>
+                <span class="selectable-tag" data-val="Thực tế">Thực tế</span>
+              </div>
+            </div>
+
+            <div class="form-group full-width">
+              <label>Sở thích cá nhân (chọn 2-3 sở thích):</label>
+              <div class="tag-selector" id="hobbies-tags">
+                <span class="selectable-tag selected" data-val="Nấu ăn">Nấu ăn</span>
+                <span class="selectable-tag selected" data-val="Nghe nhạc">Nghe nhạc</span>
+                <span class="selectable-tag" data-val="Du lịch">Du lịch</span>
+                <span class="selectable-tag" data-val="Chạy bộ">Chạy bộ</span>
+                <span class="selectable-tag" data-val="Đọc sách">Đọc sách</span>
+                <span class="selectable-tag" data-val="Xem phim">Xem phim</span>
+              </div>
+            </div>
+
+            <div class="form-group full-width">
+              <label for="p-gift">Món quà mang lên sân khấu tặng nửa kia:</label>
+              <select id="p-gift" class="form-select">
+                <option value="🌹 Bó hoa hồng sáp thơm tự làm">🌹 Bó hoa hồng sáp thơm tự làm</option>
+                <option value="🧁 Hộp bánh ngọt tự nướng">🧁 Hộp bánh ngọt tự nướng</option>
+                <option value="🎁 Hộp bánh pía đặc sản quê hương">🎁 Hộp bánh pía đặc sản quê hương</option>
+                <option value="📚 Một cuốn sách hay về cuộc sống">📚 Một cuốn sách hay về cuộc sống</option>
+              </select>
+            </div>
+          </div>
+
+          <div style="display: flex; gap: 12px; justify-content: center; margin-top: 10px;">
+            <button type="submit" class="btn btn-primary" style="flex: 1;">
+              💾 Lưu hồ sơ & Tiếp tục
+            </button>
+            <button type="button" id="btn-cancel-profile" class="btn btn-outline">
+              Hủy
+            </button>
+          </div>
+        </form>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         3. MÀN HÌNH CHỌN 1 TRONG 6 KHÁCH MỜI
+         ====================================================================== -->
+    <section id="screen-guests" class="screen">
+      <div class="guest-list-header">
+        <h2 style="color: var(--primary-red); font-size: 1.5rem; margin-bottom: 6px;">Chọn Khách Mời Ghép Đôi</h2>
+        <p style="color: var(--text-muted); font-size: 0.9rem;">
+          Chú Tư và Chị Mai Hạnh đã tuyển chọn 6 ứng viên sáng giá. Xem các chỉ số tính cách và chọn người bạn ấn tượng nhất!
+        </p>
+      </div>
+
+      <!-- Lưới 6 khách mời kết xuất động từ JS -->
+      <div class="guests-grid" id="guests-container">
+        <!-- Render bởi app.js -->
+      </div>
+
+      <div style="text-align: center;">
+        <button id="btn-back-from-guests" class="btn btn-outline" style="margin: 0 auto;">
+          ⬅ Quay lại Menu
+        </button>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         4. SÂN KHẤU TRUYỀN HÌNH (STAGE) & ĐIỀU HƯỚNG CÁC VÒNG
+         ====================================================================== -->
+    <section id="screen-stage" class="screen">
+      <div class="stage-container">
+
+        <!-- Hàng 2 MC trên cùng -->
+        <div class="mc-stage-bar">
+          <div class="mc-box">
+            <div class="mc-avatar">🎤</div>
+            <div class="mc-content">
+              <div class="mc-name tu-duyen">Chú Tư Duyên (Hài hước)</div>
+              <div class="mc-bubble" id="mc-tu-bubble">Đang chuẩn bị lên sóng bà con ơi!</div>
+            </div>
+          </div>
+          <div class="mc-box">
+            <div class="mc-avatar">🌸</div>
+            <div class="mc-content">
+              <div class="mc-name mai-hanh">Chị Mai Hạnh (Dịu dàng)</div>
+              <div class="mc-bubble" id="mc-mai-bubble">Chúc hai bạn hôm nay có thật nhiều duyên may nha.</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Thanh chỉ số các vòng chơi & Nhiệt kế Rung động -->
+        <div class="stage-top-meta">
+          <div class="round-stepper">
+            <div class="step-item active" id="step-1">1. Chào sân</div>
+            <div class="step-item" id="step-2">2. Hỏi đáp</div>
+            <div class="step-item" id="step-3">3. Kéo rèm</div>
+            <div class="step-item" id="step-4">4. Bấm nút</div>
+          </div>
+
+          <!-- Nhiệt kế hảo cảm -->
+          <div class="affinity-meter-box" title="Độ hảo cảm tích lũy qua các lượt trả lời">
+            <span class="affinity-label">❤️ Hảo cảm:</span>
+            <div class="affinity-bar-outer">
+              <div class="affinity-bar-inner" id="affinity-bar-fill" style="width: 50%;"></div>
+            </div>
+            <span class="affinity-percent" id="affinity-percent-text">50%</span>
+          </div>
+        </div>
+
+        <!-- Sân khấu chính: 2 bên và tấm rèm ở giữa -->
+        <div class="stage-arena" id="stage-arena">
+          <!-- Bục người chơi (bên trái) -->
+          <div class="podium" id="player-podium">
+            <div class="podium-avatar" id="stage-player-avatar">🧑</div>
+            <div class="podium-name" id="stage-player-name">Người chơi</div>
+            <div class="podium-role">Ứng viên A</div>
+            <div class="light-indicator" id="player-light"></div>
+          </div>
+
+          <!-- Tấm rèm đỏ ngăn cách ở giữa -->
+          <div class="curtain-divider">
+            <div class="curtain-panel" id="stage-curtain">
+              <div style="font-size: 1.6rem; margin-bottom: 4px;">🎀</div>
+              <div class="curtain-text">TẤM RÈM<br>DUYÊN NỢ</div>
+            </div>
+          </div>
+
+          <!-- Bục khách mời (bên phải) -->
+          <div class="podium" id="guest-podium">
+            <div class="podium-avatar" id="stage-guest-avatar">❓</div>
+            <div class="podium-name" id="stage-guest-name">Bên kia rèm</div>
+            <div class="podium-role">Ứng viên B</div>
+            <div class="light-indicator" id="guest-light"></div>
+          </div>
+        </div>
+
+        <!-- Vùng tương tác theo từng vòng -->
+        <div class="stage-interaction" id="interaction-box">
+          <!-- Nội dung render động qua JavaScript theo từng vòng -->
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         5. MÀN HÌNH KẾT QUẢ TẬP CHƠI (4 KẾT CỤC)
+         ====================================================================== -->
+    <section id="screen-result" class="screen">
+      <div class="result-card">
+        <div class="result-icon" id="result-icon">🎉</div>
+        <div class="result-badge success" id="result-badge">KẾT THÚC CÓ HẬU</div>
+        <h2 class="result-title" id="result-title">GHÉP ĐÔI THÀNH CÔNG!</h2>
+
+        <div class="couple-preview">
+          <span id="res-avatar-1">🧑</span>
+          <span id="res-heart-icon" style="font-size: 1.8rem; animation: pulseHeart 1.5s infinite;">❤️</span>
+          <span id="res-avatar-2">👩</span>
+        </div>
+
+        <!-- Bảng phân tích chỉ số -->
+        <div class="result-stats-table" id="result-stats-breakdown">
+          <!-- Render bởi app.js -->
+        </div>
+
+        <p class="result-desc" id="result-desc">
+          Chúc mừng hai bạn đã cùng bấm nút hẹn hò!
+        </p>
+
+        <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
+          <button id="btn-play-again" class="btn btn-primary">
+            🔄 Ghép đôi với khách mời khác
+          </button>
+          <button id="btn-view-history-from-result" class="btn btn-secondary">
+            📖 Xem Sổ tay Hẹn Hò
+          </button>
+          <button id="btn-back-menu" class="btn btn-outline">
+            🏠 Menu chính
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         6. MÀN HÌNH SỔ TAY HẸN HÒ (LỊCH SỬ GHÉP ĐÔI)
+         ====================================================================== -->
+    <section id="screen-history" class="screen">
+      <div class="history-header">
+        <div>
+          <h2 style="color: var(--primary-red); font-size: 1.5rem;">Sổ Tay Hẹn Hò</h2>
+          <p style="color: var(--text-muted); font-size: 0.85rem;">Nhật ký các tập phát sóng bạn đã tham gia</p>
+        </div>
+        <button id="btn-clear-history" class="btn btn-outline" style="padding: 6px 14px; font-size: 0.8rem;">
+          🗑 Xóa lịch sử
+        </button>
+      </div>
+
+      <!-- Danh sách lịch sử lưu trữ trong localStorage -->
+      <div class="history-list" id="history-container">
+        <!-- Render bởi app.js -->
+      </div>
+
+      <div style="text-align: center;">
+        <button id="btn-back-from-history" class="btn btn-outline" style="margin: 0 auto;">
+          ⬅ Quay lại Menu
+        </button>
+      </div>
+    </section>
+
+    <!-- ======================================================================
+         7. MODAL CÀI ĐẶT ÂM THANH
+         ====================================================================== -->
+    <div class="modal-overlay" id="modal-settings">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3>⚙️ Cài Đặt Âm Thanh</h3>
+          <button class="btn-close-modal" id="btn-close-settings">&times;</button>
+        </div>
+
+        <div class="setting-row">
+          <div>
+            <div class="setting-label">🎵 Nhạc nền (BGM)</div>
+            <div style="font-size: 0.75rem; color: #888;">Giai điệu lãng mạn trường quay</div>
+          </div>
+          <label class="switch">
+            <input type="checkbox" id="toggle-bgm" checked>
+            <span class="slider"></span>
+          </label>
+        </div>
+
+        <div class="setting-row">
+          <div>
+            <div class="setting-label">🔔 Hiệu ứng âm thanh (SFX)</div>
+            <div style="font-size: 0.75rem; color: #888;">Chuông đèn, vỗ tay, kèn chiến thắng</div>
+          </div>
+          <label class="switch">
+            <input type="checkbox" id="toggle-sfx" checked>
+            <span class="slider"></span>
+          </label>
+        </div>
+
+        <div style="padding: 14px 0;">
+          <div style="display: flex; justify-content: space-between; font-size: 0.9rem; font-weight: 600;">
+            <span>🔊 Âm lượng tổng thể</span>
+            <span id="volume-val-text">70%</span>
+          </div>
+          <input type="range" min="0" max="100" value="70" class="volume-slider" id="slider-volume">
+        </div>
+
+        <div style="display: flex; gap: 8px; justify-content: center; margin-top: 10px;">
+          <button type="button" class="btn btn-outline" id="btn-test-chime" style="padding: 8px 14px; font-size: 0.8rem;">
+            🔔 Thử chuông
+          </button>
+          <button type="button" class="btn btn-outline" id="btn-test-applause" style="padding: 8px 14px; font-size: 0.8rem;">
+            👏 Thử vỗ tay
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <span>Bạn Muốn Hẹn Hò Simulator v1.2</span>
+      <span>HTML5 / CSS3 / Vanilla JS • Web Audio API</span>
+    </footer>
+
+  </div>
+
+  <!-- Nạp các module JavaScript -->
+  <script src="js/mock.js"></script>
+  <script src="js/audio.js"></script>
+  <script src="js/effects.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

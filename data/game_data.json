@@ -1,0 +1,3221 @@
+{
+  "npcs": [
+    {
+      "id": "npc_1",
+      "name": "Nguyễn Thị Linh",
+      "age": 24,
+      "gender": "Nữ",
+      "job": "Giáo viên tiểu học",
+      "hometown": "Huế",
+      "hobbies": [
+        "nấu ăn",
+        "đọc sách",
+        "nghe nhạc",
+        "cắm hoa"
+      ],
+      "coreValues": [
+        "gia đình",
+        "trung thực",
+        "bình yên",
+        "trách nhiệm"
+      ],
+      "personality": {
+        "introvert": -1,
+        "romantic": 2,
+        "tradition": 1,
+        "humor": 0
+      },
+      "futureGoals": [
+        "lập gia đình",
+        "có nhà riêng",
+        "nuôi dạy con ngoan"
+      ],
+      "dealBreakers": [
+        "nghiện game",
+        "không muốn có con",
+        "thiếu trung thực"
+      ],
+      "pickiness": 58,
+      "preferredTags": [
+        "ổn định",
+        "hiền lành",
+        "chịu khó"
+      ]
+    },
+    {
+      "id": "npc_2",
+      "name": "Trần Văn Minh",
+      "age": 28,
+      "gender": "Nam",
+      "job": "Kỹ sư phần mềm",
+      "hometown": "Đà Nẵng",
+      "hobbies": [
+        "chạy bộ",
+        "du lịch",
+        "chơi guitar",
+        "cà phê sáng"
+      ],
+      "coreValues": [
+        "tự do",
+        "phát triển bản thân",
+        "thành thật",
+        "tôn trọng"
+      ],
+      "personality": {
+        "introvert": 0,
+        "romantic": 1,
+        "tradition": -1,
+        "humor": 1
+      },
+      "futureGoals": [
+        "du lịch Đông Nam Á",
+        "khởi nghiệp công nghệ",
+        "kết hôn muộn"
+      ],
+      "dealBreakers": [
+        "kiểm soát quá mức",
+        "không có chí tiến thủ",
+        "thích ở nhà quá"
+      ],
+      "pickiness": 70,
+      "preferredTags": [
+        "năng động",
+        "độc lập",
+        "thích khám phá"
+      ]
+    },
+    {
+      "id": "npc_3",
+      "name": "Lê Thị Hương",
+      "age": 26,
+      "gender": "Nữ",
+      "job": "Bác sĩ nội trú",
+      "hometown": "TP.HCM",
+      "hobbies": [
+        "xem phim",
+        "yoga",
+        "nấu ăn healthy",
+        "tình nguyện"
+      ],
+      "coreValues": [
+        "sức khỏe",
+        "gia đình",
+        "cân bằng cuộc sống",
+        "yêu thương"
+      ],
+      "personality": {
+        "introvert": -1,
+        "romantic": 1,
+        "tradition": 0,
+        "humor": -1
+      },
+      "futureGoals": [
+        "lập gia đình trước 30",
+        "mở phòng khám riêng",
+        "có 2 con"
+      ],
+      "dealBreakers": [
+        "hút thuốc",
+        "uống rượu nhiều",
+        "không tôn trọng phụ nữ"
+      ],
+      "pickiness": 75,
+      "preferredTags": [
+        "có trách nhiệm",
+        "lành mạnh",
+        "cởi mở"
+      ]
+    },
+    {
+      "id": "npc_4",
+      "name": "Phạm Quốc Tuấn",
+      "age": 30,
+      "gender": "Nam",
+      "job": "Đầu bếp nhà hàng",
+      "hometown": "Cần Thơ",
+      "hobbies": [
+        "ẩm thực",
+        "câu cá",
+        "nghe bolero",
+        "làm vườn"
+      ],
+      "coreValues": [
+        "gia đình",
+        "đơn giản",
+        "bình dị",
+        "thực tế"
+      ],
+      "personality": {
+        "introvert": -2,
+        "romantic": 0,
+        "tradition": 2,
+        "humor": 2
+      },
+      "futureGoals": [
+        "mở quán ăn gia đình",
+        "về quê xây nhà",
+        "lập gia đình sớm"
+      ],
+      "dealBreakers": [
+        "coi thường lao động chân tay",
+        "quá chú trọng vật chất",
+        "không thích miền Tây"
+      ],
+      "pickiness": 50,
+      "preferredTags": [
+        "thực tế",
+        "giản dị",
+        "thích nấu ăn"
+      ]
+    },
+    {
+      "id": "npc_5",
+      "name": "Võ Thị Bích",
+      "age": 27,
+      "gender": "Nữ",
+      "job": "Marketing Manager",
+      "hometown": "Hà Nội",
+      "hobbies": [
+        "du lịch",
+        "mua sắm",
+        "chụp ảnh",
+        "bar & chill",
+        "gym"
+      ],
+      "coreValues": [
+        "tự do",
+        "tham vọng",
+        "hiện đại",
+        "bình đẳng"
+      ],
+      "personality": {
+        "introvert": 2,
+        "romantic": -1,
+        "tradition": -2,
+        "humor": 1
+      },
+      "futureGoals": [
+        "thăng tiến giám đốc",
+        "chưa muốn sinh con sớm",
+        "sống độc lập"
+      ],
+      "dealBreakers": [
+        "gia trưởng",
+        "muốn vợ ở nhà",
+        "ganh tị sự nghiệp"
+      ],
+      "pickiness": 80,
+      "preferredTags": [
+        "thành đạt",
+        "hiện đại",
+        "tôn trọng bình đẳng"
+      ]
+    },
+    {
+      "id": "npc_6",
+      "name": "Nguyễn Hoàng Nam",
+      "age": 29,
+      "gender": "Nam",
+      "job": "Giảng viên đại học",
+      "hometown": "Nha Trang",
+      "hobbies": [
+        "đọc sách",
+        "cờ vua",
+        "chạy bộ",
+        "viết lách"
+      ],
+      "coreValues": [
+        "trí tuệ",
+        "trung thực",
+        "ổn định",
+        "gia đình"
+      ],
+      "personality": {
+        "introvert": -1,
+        "romantic": 1,
+        "tradition": 0,
+        "humor": 0
+      },
+      "futureGoals": [
+        "học tiến sĩ",
+        "xây dựng gia đình ấm cúng",
+        "đi tu nghiệp"
+      ],
+      "dealBreakers": [
+        "thiếu tôn trọng học thức",
+        "nói dối",
+        "sống không mục tiêu"
+      ],
+      "pickiness": 65,
+      "preferredTags": [
+        "học vấn",
+        "mục tiêu",
+        "nghiêm túc"
+      ]
+    },
+    {
+      "id": "npc_7",
+      "name": "Đặng Mai Phương",
+      "age": 25,
+      "gender": "Nữ",
+      "job": "Dược sĩ tư nhân",
+      "hometown": "Bình Định",
+      "hobbies": [
+        "chăm sóc thú cưng",
+        "làm bánh",
+        "xem phim Hàn",
+        "nghe podcast"
+      ],
+      "coreValues": [
+        "chân thành",
+        "gia đình",
+        "tình thương",
+        "bình yên"
+      ],
+      "personality": {
+        "introvert": -2,
+        "romantic": 2,
+        "tradition": 1,
+        "humor": -1
+      },
+      "futureGoals": [
+        "mở hiệu thuốc riêng",
+        "kết hôn trong 2 năm",
+        "nuôi chó mèo"
+      ],
+      "dealBreakers": [
+        "bạo lực",
+        "ghét động vật",
+        "lăng nhăng"
+      ],
+      "pickiness": 62,
+      "preferredTags": [
+        "ấm áp",
+        "thương gia đình",
+        "yêu thú cưng"
+      ]
+    },
+    {
+      "id": "npc_8",
+      "name": "Hoàng Khắc Tiệp",
+      "age": 31,
+      "gender": "Nam",
+      "job": "Kinh doanh tự do đồ gỗ",
+      "hometown": "Nam Định",
+      "hobbies": [
+        "thưởng trà",
+        "chơi chim cảnh",
+        "cầu lông",
+        "sưu tầm đồ cổ"
+      ],
+      "coreValues": [
+        "hiếu thảo",
+        "chữ tín",
+        "truyền thống",
+        "bền vững"
+      ],
+      "personality": {
+        "introvert": -1,
+        "romantic": -1,
+        "tradition": 2,
+        "humor": 0
+      },
+      "futureGoals": [
+        "mở rộng xưởng gỗ",
+        "chăm sóc cha mẹ già",
+        "sinh 3 con"
+      ],
+      "dealBreakers": [
+        "bất hiếu",
+        "tiêu xài hoang phí",
+        "sống ảo quá đà"
+      ],
+      "pickiness": 68,
+      "preferredTags": [
+        "hiếu thảo",
+        "chăm chỉ",
+        "biết vun vén"
+      ]
+    },
+    {
+      "id": "npc_9",
+      "name": "Bùi Thùy Dung",
+      "age": 23,
+      "gender": "Nữ",
+      "job": "Sáng tạo nội dung (TikToker)",
+      "hometown": "Hải Phòng",
+      "hobbies": [
+        "quay clip",
+        "nhảy múa",
+        "thời trang",
+        "ăn vặt vỉa hè"
+      ],
+      "coreValues": [
+        "vui vẻ",
+        "sáng tạo",
+        "tự tin",
+        "tự do"
+      ],
+      "personality": {
+        "introvert": 2,
+        "romantic": 1,
+        "tradition": -2,
+        "humor": 2
+      },
+      "futureGoals": [
+        "đạt 1 triệu follower",
+        "mở shop thời trang",
+        "du lịch vòng quanh thế giới"
+      ],
+      "dealBreakers": [
+        "cổ hủ",
+        "cấm cản quay video",
+        "keo kiệt bủn xỉn"
+      ],
+      "pickiness": 55,
+      "preferredTags": [
+        "hài hước",
+        "ủng hộ đam mê",
+        "chịu chơi"
+      ]
+    },
+    {
+      "id": "npc_10",
+      "name": "Trịnh Quốc Bảo",
+      "age": 32,
+      "gender": "Nam",
+      "job": "Luật sư tranh tụng",
+      "hometown": "Quảng Ninh",
+      "hobbies": [
+        "bơi lội",
+        "bắn cung",
+        "đọc sách lịch sử",
+        "uống rượu vang"
+      ],
+      "coreValues": [
+        "công lý",
+        "kỷ luật",
+        "trí tuệ",
+        "sự nghiệp"
+      ],
+      "personality": {
+        "introvert": 1,
+        "romantic": -2,
+        "tradition": 0,
+        "humor": -1
+      },
+      "futureGoals": [
+        "trở thành luật sư đối tác",
+        "mua căn hộ cao cấp",
+        "kết hôn có hợp đồng rõ ràng"
+      ],
+      "dealBreakers": [
+        "nói nhiều thiếu logic",
+        "vô trách nhiệm",
+        "không tôn trọng pháp luật"
+      ],
+      "pickiness": 82,
+      "preferredTags": [
+        "thông minh",
+        "tự lập",
+        "chín chắn"
+      ]
+    },
+    {
+      "id": "npc_11",
+      "name": "Phan Ánh Nguyệt",
+      "age": 26,
+      "gender": "Nữ",
+      "job": "Thiết kế đồ họa (Graphic Designer)",
+      "hometown": "Lâm Đồng",
+      "hobbies": [
+        "vẽ tranh",
+        "chăm sen đá",
+        "cà phê acoustic",
+        "ngắm mưa"
+      ],
+      "coreValues": [
+        "nghệ thuật",
+        "tự do",
+        "tâm hồn",
+        "tôn trọng riêng tư"
+      ],
+      "personality": {
+        "introvert": -2,
+        "romantic": 2,
+        "tradition": -1,
+        "humor": 0
+      },
+      "futureGoals": [
+        "mở xưởng gốm và tranh",
+        "sống tại Đà Lạt",
+        "kết hôn không rình rang"
+      ],
+      "dealBreakers": [
+        "áp đặt tư tưởng",
+        "thô lỗ cục súc",
+        "chê bai nghệ thuật"
+      ],
+      "pickiness": 64,
+      "preferredTags": [
+        "tinh tế",
+        "lãng mạn",
+        "biết lắng nghe"
+      ]
+    },
+    {
+      "id": "npc_12",
+      "name": "Vũ Đình Trọng",
+      "age": 27,
+      "gender": "Nam",
+      "job": "Huấn luyện viên Gym (PT)",
+      "hometown": "Bà Rịa - Vũng Tàu",
+      "hobbies": [
+        "tập tạ",
+        "chế độ dinh dưỡng",
+        "lướt sóng",
+        "nghe nhạc EDM"
+      ],
+      "coreValues": [
+        "sức khỏe",
+        "ý chí",
+        "năng lượng tích cực",
+        "bảo vệ"
+      ],
+      "personality": {
+        "introvert": 1,
+        "romantic": 0,
+        "tradition": -1,
+        "humor": 2
+      },
+      "futureGoals": [
+        "mở trung tâm fitness",
+        "mua xe hơi",
+        "tìm bạn gái cùng đam mê thể thao"
+      ],
+      "dealBreakers": [
+        "lười vận động",
+        "ăn uống buông thả",
+        "coi thường ngoại hình"
+      ],
+      "pickiness": 58,
+      "preferredTags": [
+        "yêu thể thao",
+        "tươi tắn",
+        "tự tin"
+      ]
+    },
+    {
+      "id": "npc_13",
+      "name": "Đỗ Thu Trang",
+      "age": 29,
+      "gender": "Nữ",
+      "job": "Chuyên viên kiểm toán ngân hàng",
+      "hometown": "Bắc Ninh",
+      "hobbies": [
+        "quản lý tài chính cá nhân",
+        "chơi piano",
+        "đi bảo tàng",
+        "học ngoại ngữ"
+      ],
+      "coreValues": [
+        "ổn định",
+        "minh bạch",
+        "kỷ luật",
+        "gia đình"
+      ],
+      "personality": {
+        "introvert": 0,
+        "romantic": -1,
+        "tradition": 1,
+        "humor": -1
+      },
+      "futureGoals": [
+        "mua nhà trước 30",
+        "có quỹ tiết kiệm vững chắc",
+        "nuôi dạy con bài bản"
+      ],
+      "dealBreakers": [
+        "cờ bạc",
+        "nợ nần không rõ lý do",
+        "mập mờ tài chính"
+      ],
+      "pickiness": 78,
+      "preferredTags": [
+        "vững tài chính",
+        "nghiêm túc",
+        "sống có kế hoạch"
+      ]
+    },
+    {
+      "id": "npc_14",
+      "name": "Lương Gia Huy",
+      "age": 25,
+      "gender": "Nam",
+      "job": "Nhiếp ảnh gia tự do",
+      "hometown": "Phú Yên",
+      "hobbies": [
+        "chụp ảnh phong cảnh",
+        "phượt xe máy",
+        "cắm trại",
+        "nghe nhạc Indie"
+      ],
+      "coreValues": [
+        "trải nghiệm",
+        "tự do",
+        "đam mê",
+        "chân thật"
+      ],
+      "personality": {
+        "introvert": 1,
+        "romantic": 2,
+        "tradition": -2,
+        "humor": 1
+      },
+      "futureGoals": [
+        "xuất bản sách ảnh",
+        "chu du khắp Việt Nam",
+        "tìm tri kỷ cùng đi phượt"
+      ],
+      "dealBreakers": [
+        "thực dụng",
+        "ngại khó ngại khổ",
+        "ép buộc an cư quá sớm"
+      ],
+      "pickiness": 60,
+      "preferredTags": [
+        "ưa phiêu lưu",
+        "đồng điệu tâm hồn",
+        "giản dị"
+      ]
+    },
+    {
+      "id": "npc_15",
+      "name": "Hồ Ngọc Bích",
+      "age": 30,
+      "gender": "Nữ",
+      "job": "Chủ tiệm hoa tươi & trang trí tiệc",
+      "hometown": "Bến Tre",
+      "hobbies": [
+        "cắm hoa nghệ thuật",
+        "làm bánh bông lan",
+        "nghe nhạc Trịnh",
+        "chăm cây"
+      ],
+      "coreValues": [
+        "ấm áp",
+        "nữ tính",
+        "gia đình",
+        "tận tụy"
+      ],
+      "personality": {
+        "introvert": -1,
+        "romantic": 2,
+        "tradition": 1,
+        "humor": 1
+      },
+      "futureGoals": [
+        "phát triển chuỗi hoa tươi",
+        "xây dựng tổ ấm hạnh phúc",
+        "nấu cơm mỗi ngày cho chồng"
+      ],
+      "dealBreakers": [
+        "lạnh nhạt vô tâm",
+        "vô ơn",
+        "không muốn gắn kết lâu dài"
+      ],
+      "pickiness": 66,
+      "preferredTags": [
+        "chu đáo",
+        "thích chăm sóc",
+        "dịu dàng"
+      ]
+    },
+    {
+      "id": "npc_16",
+      "name": "Tạ Quang Khải",
+      "age": 33,
+      "gender": "Nam",
+      "job": "Kỹ sư xây dựng công trình",
+      "hometown": "Nghệ An",
+      "hobbies": [
+        "bóng đá",
+        "nhậu bia với bạn bè",
+        "hát karaoke",
+        "sửa chữa đồ gia dụng"
+      ],
+      "coreValues": [
+        "trách nhiệm gia đình",
+        "chịu thương chịu khó",
+        "thẳng thắn",
+        "bằng hữu"
+      ],
+      "personality": {
+        "introvert": 0,
+        "romantic": -2,
+        "tradition": 2,
+        "humor": 1
+      },
+      "futureGoals": [
+        "xây nhà khang trang cho ba mẹ",
+        "lấy vợ chăm lo con cái",
+        "tích lũy đất đai"
+      ],
+      "dealBreakers": [
+        "khinh thường quê quán",
+        "tiểu thư đỏng đảnh",
+        "không biết làm việc nhà"
+      ],
+      "pickiness": 56,
+      "preferredTags": [
+        "đảm đang",
+        "hiền dịu",
+        "thấu hiểu công việc đi xa"
+      ]
+    },
+    {
+      "id": "npc_17",
+      "name": "Ngô Hoàng Yến",
+      "age": 24,
+      "gender": "Nữ",
+      "job": "Tiếp viên hàng không",
+      "hometown": "Hà Nội",
+      "hobbies": [
+        "mua sắm mỹ phẩm",
+        "du lịch quốc tế",
+        "thưởng thức ẩm thực",
+        "tập pilates"
+      ],
+      "coreValues": [
+        "sự tinh tế",
+        "độc lập",
+        "tôn trọng công việc",
+        "ngoại hình"
+      ],
+      "personality": {
+        "introvert": 1,
+        "romantic": 1,
+        "tradition": -1,
+        "humor": 0
+      },
+      "futureGoals": [
+        "thăng cấp tiếp viên trưởng",
+        "du lịch châu Âu cùng người yêu",
+        "mua chung cư cao cấp"
+      ],
+      "dealBreakers": [
+        "ghen tuông vô cớ",
+        "kiểm soát lịch bay",
+        "ngoại hình luộm thuộm"
+      ],
+      "pickiness": 77,
+      "preferredTags": [
+        "tự tin",
+        "bao dung",
+        "ngoại hình ưa nhìn"
+      ]
+    },
+    {
+      "id": "npc_18",
+      "name": "Dương Minh Đức",
+      "age": 28,
+      "gender": "Nam",
+      "job": "Chuyên viên phân tích dữ liệu (Data Analyst)",
+      "hometown": "Thái Bình",
+      "hobbies": [
+        "chơi board game",
+        "xem bóng rổ NBA",
+        "học AI",
+        "đọc truyện tranh"
+      ],
+      "coreValues": [
+        "logic",
+        "trung thực",
+        "bình đẳng",
+        "cải tiến"
+      ],
+      "personality": {
+        "introvert": -2,
+        "romantic": -1,
+        "tradition": -1,
+        "humor": 1
+      },
+      "futureGoals": [
+        "trở thành chuyên gia dữ liệu",
+        "kết hôn dựa trên sự đồng điệu",
+        "mua nhà chung"
+      ],
+      "dealBreakers": [
+        "cảm tính mù quáng",
+        "mê tín dị đoan thái quá",
+        "nói vòng vo dối trá"
+      ],
+      "pickiness": 63,
+      "preferredTags": [
+        "thông minh",
+        "rõ ràng",
+        "thích trao đổi học hỏi"
+      ]
+    },
+    {
+      "id": "npc_19",
+      "name": "Chu Kim Ngân",
+      "age": 26,
+      "gender": "Nữ",
+      "job": "Kinh doanh vàng bạc gia đình",
+      "hometown": "An Giang",
+      "hobbies": [
+        "xem bói phong thủy",
+        "mua sắm trang sức",
+        "đi chùa",
+        "hát tân cổ giao duyên"
+      ],
+      "coreValues": [
+        "tài lộc",
+        "hiếu thảo",
+        "truyền thống",
+        "tình nghĩa"
+      ],
+      "personality": {
+        "introvert": 0,
+        "romantic": 0,
+        "tradition": 2,
+        "humor": 1
+      },
+      "futureGoals": [
+        "tiếp quản tiệm vàng",
+        "sinh quý tử hợp tuổi",
+        "cuộc sống giàu sang bình yên"
+      ],
+      "dealBreakers": [
+        "khắc tuổi nặng nề",
+        "lười biếng ỷ lại",
+        "hỗn láo với người lớn"
+      ],
+      "pickiness": 72,
+      "preferredTags": [
+        "môn đăng hộ đối",
+        "có chí làm giàu",
+        "hợp phong thủy"
+      ]
+    },
+    {
+      "id": "npc_20",
+      "name": "Lâm Quốc Cường",
+      "age": 34,
+      "gender": "Nam",
+      "job": "Giám đốc chuỗi quán cà phê",
+      "hometown": "TP.HCM",
+      "hobbies": [
+        "thử nếm cà phê",
+        "chơi golf",
+        "đọc sách quản trị",
+        "lái xe đường trường"
+      ],
+      "coreValues": [
+        "thành công",
+        "bản lĩnh",
+        "gia đình vững chãi",
+        "chữ tín"
+      ],
+      "personality": {
+        "introvert": 1,
+        "romantic": 0,
+        "tradition": 1,
+        "humor": 0
+      },
+      "futureGoals": [
+        "nhượng quyền 50 chi nhánh",
+        "tìm người bạn đời cùng quản lý",
+        "xây biệt thự"
+      ],
+      "dealBreakers": [
+        "đứng núi này trông núi nọ",
+        "thiếu khiêm tốn",
+        "không hiểu chuyện"
+      ],
+      "pickiness": 84,
+      "preferredTags": [
+        "duyên dáng",
+        "khéo léo",
+        "biết đối nhân xử thế"
+      ]
+    },
+    {
+      "id": "npc_21",
+      "name": "Mai Thảo My",
+      "age": 23,
+      "gender": "Nữ",
+      "job": "Lễ tân khách sạn 5 sao",
+      "hometown": "Khánh Hòa",
+      "hobbies": [
+        "học tiếng Anh, tiếng Trung",
+        "chụp ảnh check-in",
+        "xem ca nhạc",
+        "bơi biển"
+      ],
+      "coreValues": [
+        "lịch sự",
+        "nụ cười",
+        "tiến thủ",
+        "tình cảm"
+      ],
+      "personality": {
+        "introvert": 1,
+        "romantic": 2,
+        "tradition": 0,
+        "humor": 1
+      },
+      "futureGoals": [
+        "quản lý tiền sảnh",
+        "kết hôn với người tâm lý",
+        "gia đình ngập tiếng cười"
+      ],
+      "dealBreakers": [
+        "keo kiệt",
+        "thô lỗ với nhân viên dịch vụ",
+        "ở bẩn"
+      ],
+      "pickiness": 59,
+      "preferredTags": [
+        "lịch thiệp",
+        "ấm áp",
+        "biết quan tâm"
+      ]
+    },
+    {
+      "id": "npc_22",
+      "name": "Trần Cao Sơn",
+      "age": 29,
+      "gender": "Nam",
+      "job": "Nông nghiệp công nghệ cao (trồng dưa lưới)",
+      "hometown": "Đồng Nai",
+      "hobbies": [
+        "nghiên cứu sinh học",
+        "lái máy cày",
+        "cắm trại",
+        "nghe radio đêm"
+      ],
+      "coreValues": [
+        "gần gũi thiên nhiên",
+        "bền vững",
+        "chân thành",
+        "lao động cần cù"
+      ],
+      "personality": {
+        "introvert": -1,
+        "romantic": 1,
+        "tradition": 1,
+        "humor": 1
+      },
+      "futureGoals": [
+        "mở rộng trang trại hữu cơ",
+        "xây nhà vườn sinh thái",
+        "cùng vợ chăm con sống xanh"
+      ],
+      "dealBreakers": [
+        "sợ bẩn sợ cực",
+        "chê bai nhà nông",
+        "sống đua đòi hàng hiệu"
+      ],
+      "pickiness": 53,
+      "preferredTags": [
+        "giản dị",
+        "thích thiên nhiên",
+        "chân chất"
+      ]
+    },
+    {
+      "id": "npc_23",
+      "name": "Vũ Hải Yến",
+      "age": 27,
+      "gender": "Nữ",
+      "job": "Biên tập viên truyền hình",
+      "hometown": "Hà Tĩnh",
+      "hobbies": [
+        "viết kịch bản",
+        "xem phim tài liệu",
+        "uống trà chiều",
+        "thăm di tích"
+      ],
+      "coreValues": [
+        "sự thật",
+        "chiều sâu tâm hồn",
+        "sự thấu cảm",
+        "gia đình"
+      ],
+      "personality": {
+        "introvert": 0,
+        "romantic": 1,
+        "tradition": 1,
+        "humor": 0
+      },
+      "futureGoals": [
+        "sản xuất phóng sự đoạt giải",
+        "kết hôn có nền tảng tri thức",
+        "chăm sóc cha mẹ"
+      ],
+      "dealBreakers": [
+        "nói năng bỗ bã",
+        "nông cạn thiếu hiểu biết",
+        "vô cảm trước nỗi đau người khác"
+      ],
+      "pickiness": 71,
+      "preferredTags": [
+        "tâm lý",
+        "có chiều sâu",
+        "điềm đạm"
+      ]
+    },
+    {
+      "id": "npc_24",
+      "name": "Đặng Hữu Phước",
+      "age": 31,
+      "gender": "Nam",
+      "job": "Bác sĩ thú y",
+      "hometown": "Tiền Giang",
+      "hobbies": [
+        "cứu hộ chó mèo",
+        "chăm cá cảnh",
+        "nghe nhạc lofi",
+        "nấu lẩu"
+      ],
+      "coreValues": [
+        "lòng nhân ái",
+        "kiên nhẫn",
+        "bình dị",
+        "trách nhiệm"
+      ],
+      "personality": {
+        "introvert": -1,
+        "romantic": 1,
+        "tradition": 0,
+        "humor": 2
+      },
+      "futureGoals": [
+        "mở bệnh viện thú y lớn",
+        "nuôi 5 chú cún cứu hộ",
+        "lập gia đình êm ấm"
+      ],
+      "dealBreakers": [
+        "ngược đãi động vật",
+        "nóng nảy đập phá đồ đạc",
+        "kiêu căng"
+      ],
+      "pickiness": 61,
+      "preferredTags": [
+        "hiền từ",
+        "yêu động vật",
+        "dễ tính"
+      ]
+    },
+    {
+      "id": "npc_25",
+      "name": "Nguyễn Ngọc Lan Khuê",
+      "age": 25,
+      "gender": "Nữ",
+      "job": "Chủ thương hiệu thời trang thiết kế",
+      "hometown": "Đà Nẵng",
+      "hobbies": [
+        "may vá",
+        "tham dự tuần lễ thời trang",
+        "sưu tầm túi xách",
+        "chụp ảnh lookbook"
+      ],
+      "coreValues": [
+        "cái đẹp",
+        "độc lập tài chính",
+        "phong cách",
+        "tự tôn"
+      ],
+      "personality": {
+        "introvert": 1,
+        "romantic": 0,
+        "tradition": -2,
+        "humor": 0
+      },
+      "futureGoals": [
+        "đưa thương hiệu ra quốc tế",
+        "mua biệt thự ven biển",
+        "bạn đời có gu riêng"
+      ],
+      "dealBreakers": [
+        "xuề xòa nhếch nhác",
+        "chê bai công việc thời trang",
+        "tự ti mặc cảm"
+      ],
+      "pickiness": 83,
+      "preferredTags": [
+        "có gu thẩm mỹ",
+        "lịch lãm",
+        "tôn trọng phong cách"
+      ]
+    },
+    {
+      "id": "npc_26",
+      "name": "Bùi Văn Thành",
+      "age": 35,
+      "gender": "Nam",
+      "job": "Kỹ sư cơ khí chế tạo",
+      "hometown": "Hải Dương",
+      "hobbies": [
+        "độ xe máy",
+        "chơi cờ tướng",
+        "chạy xe đạp",
+        "xem thời sự"
+      ],
+      "coreValues": [
+        "chắc chắn",
+        "thật thà",
+        "gia đình truyền thống",
+        "lao động"
+      ],
+      "personality": {
+        "introvert": -2,
+        "romantic": -2,
+        "tradition": 2,
+        "humor": -1
+      },
+      "futureGoals": [
+        "mua mảnh đất thứ hai",
+        "lấy vợ hiền dâu thảo",
+        "sinh con trai nối dõi"
+      ],
+      "dealBreakers": [
+        "đi đêm về hôm",
+        "không chăm sóc bố mẹ chồng",
+        "lười việc nhà"
+      ],
+      "pickiness": 67,
+      "preferredTags": [
+        "truyền thống",
+        "biết lo toan",
+        "nết na thùy mị"
+      ]
+    },
+    {
+      "id": "npc_27",
+      "name": "Lê Tuyết Mai",
+      "age": 28,
+      "gender": "Nữ",
+      "job": "Giáo viên dạy Yoga & Thiền",
+      "hometown": "Gia Lai",
+      "hobbies": [
+        "thiền định",
+        "ăn chay",
+        "leo núi",
+        "uống trà thảo mộc"
+      ],
+      "coreValues": [
+        "an lạc",
+        "tâm linh tích cực",
+        "sức khỏe tinh thần",
+        "yêu thiên nhiên"
+      ],
+      "personality": {
+        "introvert": -1,
+        "romantic": 2,
+        "tradition": 0,
+        "humor": -1
+      },
+      "futureGoals": [
+        "mở trung tâm retreat thiền",
+        "sống lối sống tối giản",
+        "gặp người có cùng tần số rung động"
+      ],
+      "dealBreakers": [
+        "sát sinh tàn nhẫn",
+        "sống quá bon chen sân si",
+        "nghiện bia rượu thuốc lá"
+      ],
+      "pickiness": 76,
+      "preferredTags": [
+        "thuần khiết",
+        "thích ăn chay",
+        "tâm tính hiền hòa"
+      ]
+    },
+    {
+      "id": "npc_28",
+      "name": "Hồ Đăng Khoa",
+      "age": 26,
+      "gender": "Nam",
+      "job": "Lập trình viên game (Game Developer)",
+      "hometown": "Thừa Thiên Huế",
+      "hobbies": [
+        "chơi game đối kháng",
+        "sưu tầm mô hình anime",
+        "nghe nhạc rock Nhật",
+        "code thâu đêm"
+      ],
+      "coreValues": [
+        "đam mê",
+        "sáng tạo",
+        "thành thật",
+        "tôn trọng sở thích"
+      ],
+      "personality": {
+        "introvert": -2,
+        "romantic": 1,
+        "tradition": -1,
+        "humor": 1
+      },
+      "futureGoals": [
+        "phát hành tựa game độc lập",
+        "đi du lịch Nhật Bản",
+        "tìm bạn gái cùng chơi game"
+      ],
+      "dealBreakers": [
+        "vứt bỏ mô hình của mình",
+        "cấm đoán chơi game",
+        "bắt ép thay đổi tính cách"
+      ],
+      "pickiness": 57,
+      "preferredTags": [
+        "cùng sở thích",
+        "dễ thương",
+        "thấu hiểu game thủ"
+      ]
+    },
+    {
+      "id": "npc_29",
+      "name": "Võ Kiều Oanh",
+      "age": 27,
+      "gender": "Nữ",
+      "job": "Kế toán trưởng công ty vận tải",
+      "hometown": "Vĩnh Long",
+      "hobbies": [
+        "nấu các món lẩu mắm",
+        "hát đờn ca tài tử",
+        "nuôi vịt kiểng",
+        "trồng hoa mười giờ"
+      ],
+      "coreValues": [
+        "nghĩa tình miền Tây",
+        "tài chính rõ ràng",
+        "vui vẻ hiếu khách",
+        "chung thủy"
+      ],
+      "personality": {
+        "introvert": 0,
+        "romantic": 0,
+        "tradition": 1,
+        "humor": 2
+      },
+      "futureGoals": [
+        "về quê mở đại lý thức ăn thủy sản",
+        "chồng con đuề huề",
+        "mua xe bán tải"
+      ],
+      "dealBreakers": [
+        "tính toán từng đồng cắc",
+        "trăng hoa ong bướm",
+        "chê quê hương miền Tây"
+      ],
+      "pickiness": 54,
+      "preferredTags": [
+        "sảng khoái",
+        "nói là làm",
+        "thương vợ con"
+      ]
+    },
+    {
+      "id": "npc_30",
+      "name": "Tô Minh Nhật",
+      "age": 30,
+      "gender": "Nam",
+      "job": "Phiên dịch viên tiếng Nhật",
+      "hometown": "Bình Thuận",
+      "hobbies": [
+        "học ngoại ngữ",
+        "pha trà đạo",
+        "chạy marathon",
+        "đọc tiểu thuyết trinh thám"
+      ],
+      "coreValues": [
+        "chu đáo",
+        "đúng giờ",
+        "chân thành",
+        "học tập suốt đời"
+      ],
+      "personality": {
+        "introvert": -1,
+        "romantic": 0,
+        "tradition": 0,
+        "humor": 0
+      },
+      "futureGoals": [
+        "định cư làm việc 3 năm tại Tokyo",
+        "trở về mở trung tâm Nhật ngữ",
+        "lập gia đình văn minh"
+      ],
+      "dealBreakers": [
+        "trễ hẹn không báo trước",
+        "thất hứa thường xuyên",
+        "nói tục chửi thề"
+      ],
+      "pickiness": 69,
+      "preferredTags": [
+        "đúng giờ",
+        "ngăn nắp",
+        "thích học hỏi"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_1",
+      "category": "lifestyle",
+      "question": "Cuối tuần được nghỉ trọn vẹn một ngày, bạn thường chọn làm gì nhất?",
+      "options": [
+        {
+          "text": "Ở nhà ngủ nướng, nấu ăn ngon và xem phim thư giãn",
+          "affinity_delta": 4,
+          "trait": "introvert",
+          "tags": [
+            "bình yên",
+            "nấu ăn"
+          ]
+        },
+        {
+          "text": "Hẹn bạn bè ra quán cà phê check-in hoặc đi dạo phố xá",
+          "affinity_delta": 3,
+          "trait": "extrovert",
+          "tags": [
+            "năng động",
+            "cà phê"
+          ]
+        },
+        {
+          "text": "Xách ba lô lên đi phượt hoặc cắm trại ngoại thành",
+          "affinity_delta": 5,
+          "trait": "adventure",
+          "tags": [
+            "khám phá",
+            "du lịch"
+          ]
+        },
+        {
+          "text": "Tranh thủ dọn dẹp nhà cửa, giặt giũ và lên kế hoạch tuần mới",
+          "affinity_delta": 2,
+          "trait": "organized",
+          "tags": [
+            "gọn gàng",
+            "ổn định"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_2",
+      "category": "finance",
+      "question": "Sau khi kết hôn, bạn nghĩ việc quản lý tài chính trong gia đình nên thế nào?",
+      "options": [
+        {
+          "text": "Giao hết tiền lương cho vợ giữ, chồng chỉ nhận tiền tiêu vặt mỗi tháng",
+          "affinity_delta": 3,
+          "trait": "tradition",
+          "tags": [
+            "truyền thống",
+            "vun vén"
+          ]
+        },
+        {
+          "text": "Tài chính công khai, mỗi người góp vào quỹ chung gia đình, phần còn lại tự do",
+          "affinity_delta": 5,
+          "trait": "modern",
+          "tags": [
+            "bình đẳng",
+            "minh bạch"
+          ]
+        },
+        {
+          "text": "Tiền ai nấy giữ, chi tiêu chung thì chia đôi sòng phẳng",
+          "affinity_delta": -2,
+          "trait": "independent",
+          "tags": [
+            "rõ ràng",
+            "độc lập"
+          ]
+        },
+        {
+          "text": "Ai có năng khiếu quản lý tài chính tốt hơn thì người đó giữ tay hòm chìa khóa",
+          "affinity_delta": 4,
+          "trait": "practical",
+          "tags": [
+            "thực tế",
+            "thấu hiểu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_3",
+      "category": "family",
+      "question": "Quan điểm của bạn về việc sống chung với bố mẹ chồng hoặc bố mẹ vợ sau cưới?",
+      "options": [
+        {
+          "text": "Muốn sống chung để tiện bề phụng dưỡng, báo hiếu và sum vầy con cháu",
+          "affinity_delta": 2,
+          "trait": "tradition",
+          "tags": [
+            "hiếu thảo",
+            "truyền thống"
+          ]
+        },
+        {
+          "text": "Nhất định phải ra ở riêng cho thoải mái, nhưng mua nhà gần để tiện qua lại",
+          "affinity_delta": 5,
+          "trait": "modern",
+          "tags": [
+            "tự do",
+            "tâm lý"
+          ]
+        },
+        {
+          "text": "Ở chung hay riêng đều được, miễn là mọi người tôn trọng không gian của nhau",
+          "affinity_delta": 4,
+          "trait": "adaptable",
+          "tags": [
+            "dễ tính",
+            "hòa đồng"
+          ]
+        },
+        {
+          "text": "Không bao giờ chấp nhận sống chung vì sợ mâu thuẫn thế hệ",
+          "affinity_delta": -3,
+          "trait": "stubborn",
+          "tags": [
+            "cứng nhắc",
+            "thẳng thắn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_4",
+      "category": "conflict",
+      "question": "Khi hai người xảy ra cãi vã to tiếng, bạn thường có xu hướng xử lý ra sao?",
+      "options": [
+        {
+          "text": "Chủ động im lặng bỏ đi chỗ khác để cả hai hạ hỏa rồi mới nói chuyện",
+          "affinity_delta": 4,
+          "trait": "calm",
+          "tags": [
+            "điềm đạm",
+            "kiên nhẫn"
+          ]
+        },
+        {
+          "text": "Phải tranh luận tới cùng cho ra nhẽ đúng sai ngay tại chỗ",
+          "affinity_delta": -4,
+          "trait": "aggressive",
+          "tags": [
+            "nóng nảy",
+            "thẳng tính"
+          ]
+        },
+        {
+          "text": "Chủ động làm hòa trước bằng một cái ôm hoặc câu nói đùa vui vẻ",
+          "affinity_delta": 5,
+          "trait": "loving",
+          "tags": [
+            "ấm áp",
+            "hài hước"
+          ]
+        },
+        {
+          "text": "Chiến tranh lạnh không thèm nhắn tin gọi điện cho đến khi đối phương xin lỗi",
+          "affinity_delta": -5,
+          "trait": "pride",
+          "tags": [
+            "tự ái",
+            "cố chấp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_5",
+      "category": "dating",
+      "question": "Một buổi hẹn hò đầu tiên lý tưởng trong tưởng tượng của bạn sẽ diễn ra ở đâu?",
+      "options": [
+        {
+          "text": "Một quán ăn vỉa hè giản dị, vừa ăn ốc vừa trò chuyện thoải mái",
+          "affinity_delta": 4,
+          "trait": "simple",
+          "tags": [
+            "giản dị",
+            "gần gũi"
+          ]
+        },
+        {
+          "text": "Nhà hàng ấm cúng có nến, hoa và một chút nhạc lãng mạn nhẹ nhàng",
+          "affinity_delta": 5,
+          "trait": "romantic",
+          "tags": [
+            "lãng mạn",
+            "chu đáo"
+          ]
+        },
+        {
+          "text": "Đi xem triển lãm nghệ thuật hoặc dạo quanh nhà sách yên tĩnh",
+          "affinity_delta": 3,
+          "trait": "intellectual",
+          "tags": [
+            "sâu sắc",
+            "tinh tế"
+          ]
+        },
+        {
+          "text": "Cùng nhau đi xem phim bom tấn rồi đi uống trà sữa tán gẫu",
+          "affinity_delta": 3,
+          "trait": "youthful",
+          "tags": [
+            "trẻ trung",
+            "vui vẻ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_6",
+      "category": "lifestyle",
+      "question": "Người yêu bạn có một thói quen xấu là hay ngủ nướng trễ hẹn, bạn sẽ làm gì?",
+      "options": [
+        {
+          "text": "Sáng nào cũng gọi điện thoại đánh thức và nhắc nhở ân cần",
+          "affinity_delta": 4,
+          "trait": "caring",
+          "tags": [
+            "chu đáo",
+            "kiên nhẫn"
+          ]
+        },
+        {
+          "text": "Quy định cứ trễ 1 phút phạt 10.000 đồng bỏ ống heo đi du lịch",
+          "affinity_delta": 5,
+          "trait": "humorous",
+          "tags": [
+            "hài hước",
+            "thông minh"
+          ]
+        },
+        {
+          "text": "Mắng cho một trận nhớ đời vì không tôn trọng giờ giấc",
+          "affinity_delta": -3,
+          "trait": "strict",
+          "tags": [
+            "khắt khe",
+            "nghiêm khắc"
+          ]
+        },
+        {
+          "text": "Bỏ về luôn không đợi, để đối phương tự biết sửa đổi",
+          "affinity_delta": -4,
+          "trait": "cold",
+          "tags": [
+            "lạnh lùng",
+            "dứt khoát"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_7",
+      "category": "family",
+      "question": "Bạn có kế hoạch sinh bao nhiêu người con và khi nào sẽ sinh?",
+      "options": [
+        {
+          "text": "Khoảng 1 đến 2 con, khi cả hai đã ổn định kinh tế và tâm lý",
+          "affinity_delta": 5,
+          "trait": "prepared",
+          "tags": [
+            "có kế hoạch",
+            "chín chắn"
+          ]
+        },
+        {
+          "text": "Càng đông càng vui, nhà phải có 3 đứa con mới rộn ràng ấm cúng",
+          "affinity_delta": 2,
+          "trait": "traditional",
+          "tags": [
+            "truyền thống",
+            "đông con"
+          ]
+        },
+        {
+          "text": "Chưa muốn sinh con ngay, muốn tận hưởng cuộc sống vợ chồng son 2-3 năm",
+          "affinity_delta": 4,
+          "trait": "modern",
+          "tags": [
+            "hiện đại",
+            "tự do"
+          ]
+        },
+        {
+          "text": "Tùy duyên trời cho, có cũng vui mà không có cũng không sao",
+          "affinity_delta": 1,
+          "trait": "passive",
+          "tags": [
+            "tùy duyên",
+            "vô tư"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_8",
+      "category": "career",
+      "question": "Nếu công việc đòi hỏi bạn phải thường xuyên đi công tác xa nhà, bạn giải quyết thế nào?",
+      "options": [
+        {
+          "text": "Sẵn sàng từ chối cơ hội thăng tiến để ưu tiên thời gian cho gia đình",
+          "affinity_delta": 3,
+          "trait": "family_first",
+          "tags": [
+            "yêu gia đình",
+            "hy sinh"
+          ]
+        },
+        {
+          "text": "Trao đổi thẳng thắn với bạn đời để cùng tìm giải pháp và giữ liên lạc liên tục",
+          "affinity_delta": 5,
+          "trait": "communicative",
+          "tags": [
+            "thấu hiểu",
+            "chia sẻ"
+          ]
+        },
+        {
+          "text": "Công việc là trên hết, tuổi trẻ phải cày kiếm tiền rồi tính sau",
+          "affinity_delta": -2,
+          "trait": "workaholic",
+          "tags": [
+            "tham vọng",
+            "bận rộn"
+          ]
+        },
+        {
+          "text": "Đưa cả người yêu hoặc vợ con đi cùng trong các chuyến công tác",
+          "affinity_delta": 4,
+          "trait": "generous",
+          "tags": [
+            "gắn kết",
+            "chiều chuộng"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_9",
+      "category": "values",
+      "question": "Theo bạn, điều gì là quan trọng nhất để duy trì một cuộc hôn nhân hạnh phúc?",
+      "options": [
+        {
+          "text": "Sự chung thủy tuyệt đối và lòng tin tưởng không hoài nghi",
+          "affinity_delta": 5,
+          "trait": "trust",
+          "tags": [
+            "chung thủy",
+            "chân thành"
+          ]
+        },
+        {
+          "text": "Nền tảng kinh tế vững vàng, không phải lo cơm áo gạo tiền",
+          "affinity_delta": 3,
+          "trait": "practical",
+          "tags": [
+            "thực tế",
+            "vững vàng"
+          ]
+        },
+        {
+          "text": "Sự thấu hiểu, biết nhường nhịn và lắng nghe lẫn nhau",
+          "affinity_delta": 5,
+          "trait": "empathy",
+          "tags": [
+            "thấu cảm",
+            "bao dung"
+          ]
+        },
+        {
+          "text": "Luôn giữ được sự lãng mạn và hấp dẫn như thuở mới yêu",
+          "affinity_delta": 4,
+          "trait": "romantic",
+          "tags": [
+            "lãng mạn",
+            "tươi mới"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_10",
+      "category": "social",
+      "question": "Bạn phản ứng thế nào nếu người yêu vẫn giữ liên lạc với người yêu cũ?",
+      "options": [
+        {
+          "text": "Hoàn toàn không chấp nhận, phải cắt đứt mọi liên lạc ngay lập tức",
+          "affinity_delta": -1,
+          "trait": "possessive",
+          "tags": [
+            "ghen tuông",
+            "rạch ròi"
+          ]
+        },
+        {
+          "text": "Nếu chỉ là xã giao hỏi thăm bình thường và công khai thì không có vấn đề",
+          "affinity_delta": 4,
+          "trait": "confident",
+          "tags": [
+            "văn minh",
+            "tự tin"
+          ]
+        },
+        {
+          "text": "Cảm thấy khó chịu nhưng âm thầm theo dõi xem có biểu hiện lạ không",
+          "affinity_delta": -3,
+          "trait": "suspicious",
+          "tags": [
+            "hoài nghi",
+            "khép kín"
+          ]
+        },
+        {
+          "text": "Rủ cả người yêu cũ đi ăn chung để xem thái độ hai người thế nào",
+          "affinity_delta": 2,
+          "trait": "bold",
+          "tags": [
+            "bản lĩnh",
+            "hài hước"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_11",
+      "category": "housework",
+      "question": "Phân chia công việc nhà (nấu cơm, rửa bát, quét dọn) nên được thực hiện ra sao?",
+      "options": [
+        {
+          "text": "Vợ nấu cơm thì chồng rửa bát, chia sẻ công bằng không đùn đẩy",
+          "affinity_delta": 5,
+          "trait": "equality",
+          "tags": [
+            "bình đẳng",
+            "chia sẻ"
+          ]
+        },
+        {
+          "text": "Việc nhà là bổn phận của phụ nữ, đàn ông chỉ lo việc lớn",
+          "affinity_delta": -5,
+          "trait": "chauvinist",
+          "tags": [
+            "gia trưởng",
+            "cổ hủ"
+          ]
+        },
+        {
+          "text": "Ai rảnh thì làm, bận thì thuê người giúp việc hoặc gọi đồ ăn ngoài",
+          "affinity_delta": 4,
+          "trait": "flexible",
+          "tags": [
+            "linh hoạt",
+            "hiện đại"
+          ]
+        },
+        {
+          "text": "Tôi thích tự tay làm hết tất cả việc nhà để chăm sóc người thương",
+          "affinity_delta": 4,
+          "trait": "devoted",
+          "tags": [
+            "tận tụy",
+            "đảm đang"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_12",
+      "category": "habits",
+      "question": "Thói quen nào sau đây của đối phương khiến bạn khó chịu nhất?",
+      "options": [
+        {
+          "text": "Hút thuốc lá phì phèo và nhậu nhẹt say xỉn thâu đêm",
+          "affinity_delta": 4,
+          "trait": "healthy",
+          "tags": [
+            "lành mạnh",
+            "nghiêm túc"
+          ]
+        },
+        {
+          "text": "Cắm mặt vào điện thoại bấm liên tục khi đang ngồi nói chuyện cùng nhau",
+          "affinity_delta": 4,
+          "trait": "attentive",
+          "tags": [
+            "tôn trọng",
+            "tinh tế"
+          ]
+        },
+        {
+          "text": "Ở bẩn, quần áo vứt lung tung bừa bãi khắp phòng",
+          "affinity_delta": 3,
+          "trait": "neat",
+          "tags": [
+            "sạch sẽ",
+            "ngăn nắp"
+          ]
+        },
+        {
+          "text": "Tính toán chi li từng nghìn lẻ khi đi ăn uống mua sắm",
+          "affinity_delta": 4,
+          "trait": "generous",
+          "tags": [
+            "hào sảng",
+            "thoải mái"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_13",
+      "category": "romance",
+      "question": "Vào ngày kỷ niệm tình yêu hoặc lễ Valentine, bạn mong muốn điều gì nhất?",
+      "options": [
+        {
+          "text": "Một món quà đắt tiền có giá trị thực tế cao",
+          "affinity_delta": 1,
+          "trait": "material",
+          "tags": [
+            "thực tế",
+            "sang chảnh"
+          ]
+        },
+        {
+          "text": "Một bữa tối ấm cúng do chính tay người ấy vào bếp tự nấu",
+          "affinity_delta": 5,
+          "trait": "heartfelt",
+          "tags": [
+            "chân tình",
+            "ấm áp"
+          ]
+        },
+        {
+          "text": "Cùng nhau đi du lịch trốn đến một vùng biển hoặc vùng núi xa xôi",
+          "affinity_delta": 4,
+          "trait": "adventurous",
+          "tags": [
+            "lãng mạn",
+            "trải nghiệm"
+          ]
+        },
+        {
+          "text": "Chỉ cần ở bên cạnh nhau, không cần câu nệ quà cáp hình thức",
+          "affinity_delta": 3,
+          "trait": "simple",
+          "tags": [
+            "giản dị",
+            "bình yên"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_14",
+      "category": "lifestyle",
+      "question": "Nếu nửa kia của bạn có niềm đam mê nuôi thú cưng (chó/mèo) trong nhà, bạn thấy sao?",
+      "options": [
+        {
+          "text": "Tuyệt vời, tôi cũng cực kỳ yêu động vật và muốn nuôi cùng",
+          "affinity_delta": 5,
+          "trait": "animal_lover",
+          "tags": [
+            "yêu động vật",
+            "nhân ái"
+          ]
+        },
+        {
+          "text": "Nuôi được nhưng phải huấn luyện vệ sinh sạch sẽ, không cho lên giường",
+          "affinity_delta": 3,
+          "trait": "reasonable",
+          "tags": [
+            "sạch sẽ",
+            "nguyên tắc"
+          ]
+        },
+        {
+          "text": "Rất dị ứng với lông chó mèo nên tuyệt đối không được nuôi",
+          "affinity_delta": -2,
+          "trait": "sensitive",
+          "tags": [
+            "khắt khe",
+            "dị ứng"
+          ]
+        },
+        {
+          "text": "Không thích lắm nhưng vì người yêu thích thì tôi sẵn sàng chiều",
+          "affinity_delta": 4,
+          "trait": "accommodating",
+          "tags": [
+            "chiều chuộng",
+            "bao dung"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_15",
+      "category": "finance",
+      "question": "Khi bạn bè thân thiết của đối phương hỏi vay một khoản tiền lớn, bạn sẽ quyết định thế nào?",
+      "options": [
+        {
+          "text": "Cho vay ngay lập tức vì bạn bè hoạn nạn phải giúp đỡ hết mình",
+          "affinity_delta": -1,
+          "trait": "naive",
+          "tags": [
+            "cả nể",
+            "nông nổi"
+          ]
+        },
+        {
+          "text": "Bàn bạc kỹ lưỡng với bạn đời, ký giấy tờ vay rõ ràng mới cho vay",
+          "affinity_delta": 5,
+          "trait": "prudent",
+          "tags": [
+            "cẩn trọng",
+            "đồng thuận"
+          ]
+        },
+        {
+          "text": "Tuyệt đối không cho vay vì dính tới tiền bạc là mất bạn bè",
+          "affinity_delta": 2,
+          "trait": "defensive",
+          "tags": [
+            "rắn rỏi",
+            "nguyên tắc"
+          ]
+        },
+        {
+          "text": "Chỉ cho vay số tiền trong khả năng nếu mất cũng không ảnh hưởng kinh tế gia đình",
+          "affinity_delta": 4,
+          "trait": "wise",
+          "tags": [
+            "khôn ngoan",
+            "an toàn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_16",
+      "category": "personality",
+      "question": "Bạn tự đánh giá mình là người hướng nội hay hướng ngoại?",
+      "options": [
+        {
+          "text": "Hướng nội hoàn toàn, thích không gian yên tĩnh và nạp năng lượng một mình",
+          "affinity_delta": 3,
+          "trait": "introvert",
+          "tags": [
+            "hướng nội",
+            "trầm lặng"
+          ]
+        },
+        {
+          "text": "Hướng ngoại nhiệt tình, thích giao lưu kết bạn và khuấy động đám đông",
+          "affinity_delta": 3,
+          "trait": "extrovert",
+          "tags": [
+            "hướng ngoại",
+            "hoạt ngôn"
+          ]
+        },
+        {
+          "text": "Vừa hướng nội vừa hướng ngoại, tùy hoàn cảnh và đối tượng tiếp xúc",
+          "affinity_delta": 5,
+          "trait": "ambivert",
+          "tags": [
+            "cân bằng",
+            "linh hoạt"
+          ]
+        },
+        {
+          "text": "Không quan tâm lắm, chỉ sống thật với cảm xúc cá nhân mỗi ngày",
+          "affinity_delta": 2,
+          "trait": "spontaneous",
+          "tags": [
+            "tự nhiên",
+            "bộc trực"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_17",
+      "category": "family",
+      "question": "Ngày Tết cổ truyền, hai vợ chồng nên phân chia ăn Tết bên nội bên ngoại ra sao?",
+      "options": [
+        {
+          "text": "Giao thừa và mùng 1 ở nhà nội, mùng 2 mùng 3 về nhà ngoại sum họp",
+          "affinity_delta": 4,
+          "trait": "balanced",
+          "tags": [
+            "cân bằng",
+            "chu đáo"
+          ]
+        },
+        {
+          "text": "Luân phiên năm nay ăn Tết nhà nội thì năm sau trọn vẹn ăn Tết nhà ngoại",
+          "affinity_delta": 5,
+          "trait": "fair",
+          "tags": [
+            "công bằng",
+            "hiện đại"
+          ]
+        },
+        {
+          "text": "Nhà ai nấy về ăn Tết cho trọn vẹn tình cảm ruột thịt",
+          "affinity_delta": -4,
+          "trait": "detached",
+          "tags": [
+            "xa cách",
+            "lập dị"
+          ]
+        },
+        {
+          "text": "Rủ cả hai bên nội ngoại cùng đi du lịch đón năm mới cho nhàn hạ",
+          "affinity_delta": 3,
+          "trait": "modern",
+          "tags": [
+            "sáng tạo",
+            "chịu chi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_18",
+      "category": "lifestyle",
+      "question": "Bạn có thói quen kiểm tra tin nhắn hay trang cá nhân của người yêu không?",
+      "options": [
+        {
+          "text": "Không bao giờ, ai cũng cần có khoảng trời riêng và quyền tự do cá nhân",
+          "affinity_delta": 5,
+          "trait": "respectful",
+          "tags": [
+            "tôn trọng",
+            "văn minh"
+          ]
+        },
+        {
+          "text": "Thỉnh thoảng xem trộm khi đối phương sơ hở để yên tâm hơn",
+          "affinity_delta": -4,
+          "trait": "insecure",
+          "tags": [
+            "thiếu tin tưởng",
+            "tò mò"
+          ]
+        },
+        {
+          "text": "Cả hai tự nguyện trao đổi mật khẩu điện thoại cho nhau để minh bạch",
+          "affinity_delta": 3,
+          "trait": "transparent",
+          "tags": [
+            "minh bạch",
+            "gắn bó"
+          ]
+        },
+        {
+          "text": "Chỉ xem khi người ấy cho phép hoặc có linh tính chẳng lành",
+          "affinity_delta": 2,
+          "trait": "cautious",
+          "tags": [
+            "trực giác",
+            "cẩn thận"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_19",
+      "category": "dating",
+      "question": "Điều gì ở ngoại hình đối phương khiến bạn dễ bị 'say nắng' nhất ngay từ cái nhìn đầu tiên?",
+      "options": [
+        {
+          "text": "Nụ cười rạng rỡ, hàm răng trắng và ánh mắt biết cười",
+          "affinity_delta": 5,
+          "trait": "friendly",
+          "tags": [
+            "duyên dáng",
+            "tươi tắn"
+          ]
+        },
+        {
+          "text": "Chiều cao nổi bật và vóc dáng khỏe khoắn, cân đối",
+          "affinity_delta": 3,
+          "trait": "physical",
+          "tags": [
+            "vóc dáng",
+            "thể thao"
+          ]
+        },
+        {
+          "text": "Gu ăn mặc gọn gàng, tinh tế và thoang thoảng mùi hương dễ chịu",
+          "affinity_delta": 4,
+          "trait": "stylish",
+          "tags": [
+            "chỉn chu",
+            "thơm tho"
+          ]
+        },
+        {
+          "text": "Khuôn mặt hiền lành, toát lên vẻ phúc hậu và đáng tin cậy",
+          "affinity_delta": 4,
+          "trait": "kind",
+          "tags": [
+            "hiền lành",
+            "phúc hậu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_20",
+      "category": "morals",
+      "question": "Nếu biết mẹ của bạn và người yêu không hợp tính nhau, bạn sẽ làm cầu nối thế nào?",
+      "options": [
+        {
+          "text": "Luôn lắng nghe riêng hai bên, khéo léo nói tốt về nhau để giảm bớt định kiến",
+          "affinity_delta": 5,
+          "trait": "tactful",
+          "tags": [
+            "khéo léo",
+            "tâm lý"
+          ]
+        },
+        {
+          "text": "Yêu cầu người yêu phải nhịn mẹ mình vì mẹ là đấng sinh thành",
+          "affinity_delta": -5,
+          "trait": "mamas_boy",
+          "tags": [
+            "thiên vị",
+            "gia trưởng"
+          ]
+        },
+        {
+          "text": "Hạn chế gặp mặt trực tiếp, tránh va chạm không đáng có",
+          "affinity_delta": 2,
+          "trait": "avoidant",
+          "tags": [
+            "tránh né",
+            "an toàn"
+          ]
+        },
+        {
+          "text": "Tổ chức các buổi đi ăn hoặc du lịch chung để tạo cơ hội hiểu nhau hơn",
+          "affinity_delta": 4,
+          "trait": "proactive",
+          "tags": [
+            "chủ động",
+            "gắn kết"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_21",
+      "category": "habits",
+      "question": "Bạn có hay vào bếp tự nấu ăn không, và món tủ của bạn là gì?",
+      "options": [
+        {
+          "text": "Rất mê nấu ăn, tự tin nấu được mâm cơm gia đình chuẩn vị quê nhà",
+          "affinity_delta": 5,
+          "trait": "domestic",
+          "tags": [
+            "đảm đang",
+            "nấu ăn"
+          ]
+        },
+        {
+          "text": "Chỉ biết nấu mì gói, chiên trứng luộc rau ở mức cơ bản sinh tồn",
+          "affinity_delta": 2,
+          "trait": "honest",
+          "tags": [
+            "thật thà",
+            "vụng về"
+          ]
+        },
+        {
+          "text": "Tuy nấu dở nhưng rất thích phụ nhặt rau, rửa chén và dọn bàn ăn",
+          "affinity_delta": 4,
+          "trait": "supportive",
+          "tags": [
+            "nhiệt tình",
+            "chia sẻ"
+          ]
+        },
+        {
+          "text": "Không thích nấu nướng, thích ra ngoài ăn hàng quán khám phá món lạ",
+          "affinity_delta": 2,
+          "trait": "foodie",
+          "tags": [
+            "thích ăn ngon",
+            "sành ăn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_22",
+      "category": "lifestyle",
+      "question": "Nếu bạn đời muốn tiếp tục học lên cao học hoặc đi tu nghiệp nước ngoài sau cưới, bạn nghĩ sao?",
+      "options": [
+        {
+          "text": "Hoàn toàn ủng hộ và sẵn sàng làm hậu phương vững chắc cho nửa kia",
+          "affinity_delta": 5,
+          "trait": "supportive",
+          "tags": [
+            "ủng hộ",
+            "bao dung"
+          ]
+        },
+        {
+          "text": "Chỉ đồng ý nếu cả hai cùng đi, không chấp nhận việc yêu xa cách trở",
+          "affinity_delta": 3,
+          "trait": "attached",
+          "tags": [
+            "gắn bó",
+            "rõ ràng"
+          ]
+        },
+        {
+          "text": "Phản đối vì sau cưới phải lo ổn định kinh tế và sinh con cái",
+          "affinity_delta": -3,
+          "trait": "restrictive",
+          "tags": [
+            "bảo thủ",
+            "áp đặt"
+          ]
+        },
+        {
+          "text": "Bàn bạc về chi phí và thời gian xem có khả thi cho kế hoạch gia đình không",
+          "affinity_delta": 4,
+          "trait": "realistic",
+          "tags": [
+            "thực tế",
+            "thấu đáo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_23",
+      "category": "romance",
+      "question": "Bạn thích cách bày tỏ tình cảm nào nhất trong tình yêu hàng ngày?",
+      "options": [
+        {
+          "text": "Những lời nói ngọt ngào, khen ngợi và động viên chân thành",
+          "affinity_delta": 4,
+          "trait": "words",
+          "tags": [
+            "ngọt ngào",
+            "tinh tế"
+          ]
+        },
+        {
+          "text": "Hành động thực tế như chăm sóc lúc ốm, mua đồ ăn ngon mang qua",
+          "affinity_delta": 5,
+          "trait": "acts",
+          "tags": [
+            "chu đáo",
+            "quan tâm"
+          ]
+        },
+        {
+          "text": "Những cái ôm siết chặt, nắm tay khi đi dạo phố đông người",
+          "affinity_delta": 4,
+          "trait": "touch",
+          "tags": [
+            "ấm áp",
+            "tình cảm"
+          ]
+        },
+        {
+          "text": "Tặng những món quà bất ngờ không nhân dịp gì cả",
+          "affinity_delta": 3,
+          "trait": "gifts",
+          "tags": [
+            "bất ngờ",
+            "lãng mạn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_24",
+      "category": "social",
+      "question": "Khi bạn đi dự tiệc cưới của bạn bè, bạn muốn người yêu đi cùng hay đi một mình?",
+      "options": [
+        {
+          "text": "Rất muốn dẫn đi cùng để giới thiệu tự hào với tất cả bạn bè",
+          "affinity_delta": 5,
+          "trait": "proud",
+          "tags": [
+            "tự hào",
+            "gắn bó"
+          ]
+        },
+        {
+          "text": "Tùy ý đối phương, nếu thích thì đi cùng, ngại thì ở nhà nghỉ ngơi",
+          "affinity_delta": 4,
+          "trait": "free",
+          "tags": [
+            "tôn trọng",
+            "thoải mái"
+          ]
+        },
+        {
+          "text": "Thích đi một mình để dễ dàng nhậu nhẹt quẩy tưng bừng với hội bạn cũ",
+          "affinity_delta": -2,
+          "trait": "aloof",
+          "tags": [
+            "ham chơi",
+            "vô tâm"
+          ]
+        },
+        {
+          "text": "Đi tiệc nào cũng bắt buộc phải có đôi có cặp mới chịu",
+          "affinity_delta": 2,
+          "trait": "clingy",
+          "tags": [
+            "quấn quýt",
+            "kiểm soát"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_25",
+      "category": "lifestyle",
+      "question": "Thú tiêu khiển nào sau đây bạn thường làm khi cảm thấy áp lực, stress trong cuộc sống?",
+      "options": [
+        {
+          "text": "Chạy bộ, tập gym hoặc chơi thể thao cho toát mồ hôi giải tỏa",
+          "affinity_delta": 4,
+          "trait": "active",
+          "tags": [
+            "thể thao",
+            "tích cực"
+          ]
+        },
+        {
+          "text": "Tìm một quán ăn thật ngon để ăn uống no say bù đắp năng lượng",
+          "affinity_delta": 3,
+          "trait": "indulgent",
+          "tags": [
+            "ẩm thực",
+            "dễ chịu"
+          ]
+        },
+        {
+          "text": "Ngồi tâm sự trút hết bầu tâm sự với người mình tin tưởng nhất",
+          "affinity_delta": 5,
+          "trait": "expressive",
+          "tags": [
+            "chia sẻ",
+            "tình cảm"
+          ]
+        },
+        {
+          "text": "Nhốt mình trong phòng một góc, không nói chuyện với ai suốt ngày",
+          "affinity_delta": -2,
+          "trait": "withdrawn",
+          "tags": [
+            "khép kín",
+            "tiêu cực"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_26",
+      "category": "finance",
+      "question": "Nếu trúng số độc đắc 10 tỷ đồng, điều đầu tiên bạn làm với số tiền đó là gì?",
+      "options": [
+        {
+          "text": "Mua ngay căn nhà khang trang cho gia đình và gửi tiết kiệm lấy lãi",
+          "affinity_delta": 5,
+          "trait": "practical",
+          "tags": [
+            "vững chắc",
+            "hiếu thảo"
+          ]
+        },
+        {
+          "text": "Trích một phần làm từ thiện cứu trợ người nghèo, phần còn lại đầu tư làm ăn",
+          "affinity_delta": 4,
+          "trait": "generous",
+          "tags": [
+            "nhân hậu",
+            "nhìn xa"
+          ]
+        },
+        {
+          "text": "Mua xe sang, sắm đồ hiệu và đi du lịch vòng quanh thế giới xả láng",
+          "affinity_delta": -1,
+          "trait": "lavish",
+          "tags": [
+            "hưởng thụ",
+            "hoang phí"
+          ]
+        },
+        {
+          "text": "Chia đều cho hai bên gia đình nội ngoại và đưa người yêu đi nghỉ dưỡng",
+          "affinity_delta": 4,
+          "trait": "loving",
+          "tags": [
+            "ấm áp",
+            "công bằng"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_27",
+      "category": "morals",
+      "question": "Một người bạn đời lý tưởng theo bạn cần phải có đức tính nào trước tiên?",
+      "options": [
+        {
+          "text": "Lòng bao dung và sự thấu hiểu sâu sắc tâm tư của người khác",
+          "affinity_delta": 5,
+          "trait": "empathy",
+          "tags": [
+            "bao dung",
+            "tâm lý"
+          ]
+        },
+        {
+          "text": "Ý chí kiên cường, luôn cầu tiến và không bao giờ chịu đầu hàng số phận",
+          "affinity_delta": 4,
+          "trait": "ambition",
+          "tags": [
+            "cầu tiến",
+            "bản lĩnh"
+          ]
+        },
+        {
+          "text": "Tính cách vui tươi, khiếu hài hước luôn mang lại tiếng cười",
+          "affinity_delta": 4,
+          "trait": "humor",
+          "tags": [
+            "vui tính",
+            "lạc quan"
+          ]
+        },
+        {
+          "text": "Sự thật thà, ngay thẳng, không bao giờ nói dối dù chỉ là chuyện nhỏ",
+          "affinity_delta": 4,
+          "trait": "integrity",
+          "tags": [
+            "thật thà",
+            "đáng tin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_28",
+      "category": "lifestyle",
+      "question": "Bạn có thói quen dậy sớm hay là cú đêm hoạt động về khuya?",
+      "options": [
+        {
+          "text": "Thích dậy sớm tập thể dục, hít thở không khí trong lành buổi sáng",
+          "affinity_delta": 4,
+          "trait": "early_bird",
+          "tags": [
+            "lành mạnh",
+            "kỷ luật"
+          ]
+        },
+        {
+          "text": "Cú đêm chính hiệu, đêm khuya yên tĩnh làm việc và suy nghĩ mới hiệu quả",
+          "affinity_delta": 2,
+          "trait": "night_owl",
+          "tags": [
+            "sáng tạo",
+            "thức khuya"
+          ]
+        },
+        {
+          "text": "Giờ giấc linh hoạt theo công việc, mệt lúc nào ngủ lúc đó",
+          "affinity_delta": 3,
+          "trait": "flexible",
+          "tags": [
+            "tự nhiên",
+            "thoải mái"
+          ]
+        },
+        {
+          "text": "Ngủ nướng bất chấp khi có cơ hội, rất khó ai gọi dậy được",
+          "affinity_delta": 1,
+          "trait": "lazy",
+          "tags": [
+            "lười biếng",
+            "hài hước"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_29",
+      "category": "dating",
+      "question": "Nếu hai người hẹn hò mà người kia quên mang ví tiền, bạn sẽ làm gì?",
+      "options": [
+        {
+          "text": "Vui vẻ thanh toán toàn bộ và trêu đùa: 'Lần sau tới lượt bạn bao nhé!'",
+          "affinity_delta": 5,
+          "trait": "gracious",
+          "tags": [
+            "khéo léo",
+            "ga lăng"
+          ]
+        },
+        {
+          "text": "Thanh toán giúp nhưng trong lòng cảm thấy hơi nghi ngờ tính trung thực",
+          "affinity_delta": -2,
+          "trait": "petty",
+          "tags": [
+            "so đo",
+            "hoài nghi"
+          ]
+        },
+        {
+          "text": "Bảo người đó chuyển khoản trả lại ngay tại bàn ăn",
+          "affinity_delta": -4,
+          "trait": "blunt",
+          "tags": [
+            "thô lỗ",
+            "sòng phẳng quá"
+          ]
+        },
+        {
+          "text": "Cười xòa coi như cơ hội để mình trổ tài chiêu đãi người thương",
+          "affinity_delta": 4,
+          "trait": "warm",
+          "tags": [
+            "hào phóng",
+            "ấm áp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_30",
+      "category": "conflict",
+      "question": "Bạn làm gì nếu bạn đời có quan điểm dạy dỗ con cái hoàn toàn trái ngược bạn?",
+      "options": [
+        {
+          "text": "Tuyệt đối không tranh cãi trước mặt con, về phòng đóng cửa bàn bạc thống nhất",
+          "affinity_delta": 5,
+          "trait": "wise_parent",
+          "tags": [
+            "tâm lý",
+            "văn minh"
+          ]
+        },
+        {
+          "text": "Can thiệp ngay tại trận để bảo vệ quan điểm đúng đắn của mình",
+          "affinity_delta": -3,
+          "trait": "reactive",
+          "tags": [
+            "nóng vội",
+            "bất hòa"
+          ]
+        },
+        {
+          "text": "Nhường quyền dạy con cho đối phương quyết định hoàn toàn",
+          "affinity_delta": 1,
+          "trait": "yielding",
+          "tags": [
+            "nhún nhường",
+            "thiếu chủ kiến"
+          ]
+        },
+        {
+          "text": "Tìm đọc thêm sách khoa học giáo dục để cả hai cùng học hỏi phương pháp hay",
+          "affinity_delta": 4,
+          "trait": "educational",
+          "tags": [
+            "cầu thị",
+            "khoa học"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_31",
+      "category": "family",
+      "question": "Khi nhà có đám giỗ hoặc tiệc họ hàng đông đúc, bạn thường làm vị trí nào?",
+      "options": [
+        {
+          "text": "Xắn tay áo xuống bếp phụ mổ gà, nấu nướng, dọn mâm cùng cô dì",
+          "affinity_delta": 5,
+          "trait": "helpful",
+          "tags": [
+            "tháo vát",
+            "chăm chỉ"
+          ]
+        },
+        {
+          "text": "Tiếp khách ở phòng khách, rót nước mời trà và trò chuyện cùng các bậc trưởng bối",
+          "affinity_delta": 4,
+          "trait": "social",
+          "tags": [
+            "lịch sự",
+            "khéo miệng"
+          ]
+        },
+        {
+          "text": "Chờ dọn mâm ra ăn xong rồi phụ gom bát đĩa đi rửa sạch sẽ",
+          "affinity_delta": 3,
+          "trait": "supportive",
+          "tags": [
+            "thật thà",
+            "không ngại dơ"
+          ]
+        },
+        {
+          "text": "Tìm cách cáo bận trốn về sớm vì ngại chỗ đông người",
+          "affinity_delta": -4,
+          "trait": "antisocial",
+          "tags": [
+            "ngại khó",
+            "lười giao tiếp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_32",
+      "category": "habits",
+      "question": "Quan điểm của bạn về việc uống rượu bia giao lưu của nam và nữ trong thời nay?",
+      "options": [
+        {
+          "text": "Uống chừng mực biết điểm dừng để giữ sức khỏe và an toàn giao thông",
+          "affinity_delta": 5,
+          "trait": "disciplined",
+          "tags": [
+            "chừng mực",
+            "tự chủ"
+          ]
+        },
+        {
+          "text": "Đã vui là phải hết mình 'không say không về', ép nhau cạn ly mới nhiệt tình",
+          "affinity_delta": -5,
+          "trait": "reckless",
+          "tags": [
+            "quá đà",
+            "ép uổng"
+          ]
+        },
+        {
+          "text": "Không uống giọt nào, thích các buổi gặp gỡ lành mạnh uống trà hoặc nước ép",
+          "affinity_delta": 4,
+          "trait": "clean",
+          "tags": [
+            "lành mạnh",
+            "nguyên tắc"
+          ]
+        },
+        {
+          "text": "Uống được một chút bia xã giao nhưng ưu tiên phụ trách đưa người say về",
+          "affinity_delta": 4,
+          "trait": "responsible",
+          "tags": [
+            "trách nhiệm",
+            "ấm áp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_33",
+      "category": "career",
+      "question": "Nếu một người kiếm được nhiều tiền hơn người kia trong hôn nhân, bạn nghĩ gì?",
+      "options": [
+        {
+          "text": "Hoàn toàn bình thường, tiền kiếm được đều phục vụ mục tiêu chung của tổ ấm",
+          "affinity_delta": 5,
+          "trait": "mature",
+          "tags": [
+            "trưởng thành",
+            "đồng lòng"
+          ]
+        },
+        {
+          "text": "Người kiếm ít hơn sẽ cảm thấy tự ti và dễ bị lép vế trong gia đình",
+          "affinity_delta": -2,
+          "trait": "insecure",
+          "tags": [
+            "tự ti",
+            "nhạy cảm"
+          ]
+        },
+        {
+          "text": "Đàn ông nhất định phải kiếm nhiều tiền hơn phụ nữ thì gia đình mới êm ấm",
+          "affinity_delta": -3,
+          "trait": "traditionalist",
+          "tags": [
+            "bảo thủ",
+            "áp lực"
+          ]
+        },
+        {
+          "text": "Cùng nhau động viên để cả hai phát triển, không phân biệt ai nhiều ai ít",
+          "affinity_delta": 4,
+          "trait": "encouraging",
+          "tags": [
+            "động viên",
+            "tương trợ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_34",
+      "category": "romance",
+      "question": "Bạn có tin vào câu nói 'Tình yêu sét đánh' ngay từ ánh nhìn đầu tiên không?",
+      "options": [
+        {
+          "text": "Rất tin, cảm xúc rung động ban đầu là món quà kỳ diệu của số phận",
+          "affinity_delta": 4,
+          "trait": "romantic",
+          "tags": [
+            "lãng mạn",
+            "cảm xúc"
+          ]
+        },
+        {
+          "text": "Không tin, tình cảm bền vững phải xây dựng từ sự thấu hiểu qua thời gian",
+          "affinity_delta": 4,
+          "trait": "pragmatic",
+          "tags": [
+            "thực tế",
+            "vững chãi"
+          ]
+        },
+        {
+          "text": "Đó chỉ là sự mê muội về ngoại hình chứ chưa thể gọi là tình yêu",
+          "affinity_delta": 2,
+          "trait": "skeptic",
+          "tags": [
+            "tỉnh táo",
+            "nghi ngờ"
+          ]
+        },
+        {
+          "text": "Nửa tin nửa ngờ, hy vọng hôm nay tại trường quay mình sẽ được trải nghiệm",
+          "affinity_delta": 5,
+          "trait": "charming",
+          "tags": [
+            "khéo léo",
+            "hài hước"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_35",
+      "category": "values",
+      "question": "Bạn có sẵn sàng chuyển về quê hoặc sang một thành phố khác sinh sống vì tình yêu không?",
+      "options": [
+        {
+          "text": "Sẵn sàng đi bất cứ đâu, miễn là nơi đó có người mình yêu thương bên cạnh",
+          "affinity_delta": 4,
+          "trait": "devoted",
+          "tags": [
+            "chân tình",
+            "dũng cảm"
+          ]
+        },
+        {
+          "text": "Cần phải cân nhắc cơ hội nghề nghiệp và tương lai của cả hai trước",
+          "affinity_delta": 5,
+          "trait": "careful",
+          "tags": [
+            "thấu đáo",
+            "thực tế"
+          ]
+        },
+        {
+          "text": "Chỉ muốn ở yên nơi mình đang sinh sống và làm việc quen thuộc",
+          "affinity_delta": -2,
+          "trait": "stubborn",
+          "tags": [
+            "ngại thay đổi",
+            "an phận"
+          ]
+        },
+        {
+          "text": "Cả hai cùng tìm một thành phố mới trung lập để cùng nhau bắt đầu xây tổ ấm",
+          "affinity_delta": 3,
+          "trait": "neutral",
+          "tags": [
+            "công bằng",
+            "mạo hiểm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_36",
+      "category": "lifestyle",
+      "question": "Thói quen xài mạng xã hội (Facebook, TikTok, Instagram) của bạn ở mức độ nào?",
+      "options": [
+        {
+          "text": "Chỉ lướt xem tin tức bạn bè 30 phút mỗi ngày rồi tắt",
+          "affinity_delta": 4,
+          "trait": "moderate",
+          "tags": [
+            "điều độ",
+            "lành mạnh"
+          ]
+        },
+        {
+          "text": "Nghiện mạng xã hội, đi đâu ăn gì cũng phải chụp ảnh đăng story check-in",
+          "affinity_delta": -3,
+          "trait": "screen_addict",
+          "tags": [
+            "sống ảo",
+            "mất tập trung"
+          ]
+        },
+        {
+          "text": "Hầu như không dùng mạng xã hội, chỉ dùng Zalo để liên lạc công việc",
+          "affinity_delta": 3,
+          "trait": "old_school",
+          "tags": [
+            "kín tiếng",
+            "cổ điển"
+          ]
+        },
+        {
+          "text": "Dùng mạng xã hội như công cụ giải trí vui vẻ và chia sẻ khoảnh khắc kỷ niệm",
+          "affinity_delta": 4,
+          "trait": "balanced",
+          "tags": [
+            "vui vẻ",
+            "cân bằng"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_37",
+      "category": "conflict",
+      "question": "Nếu phát hiện người yêu nói dối một chuyện nhỏ (như đi nhậu mà bảo đi ngủ), bạn sẽ ứng xử thế nào?",
+      "options": [
+        {
+          "text": "Nhẹ nhàng nhắc nhở: 'Lần sau cứ nói thật, em không cấm nhưng đừng nói dối'",
+          "affinity_delta": 5,
+          "trait": "understanding",
+          "tags": [
+            "bao dung",
+            "tâm lý"
+          ]
+        },
+        {
+          "text": "Làm ầm ĩ lên vì cho rằng nói dối chuyện nhỏ thì sẽ nói dối chuyện lớn",
+          "affinity_delta": -4,
+          "trait": "dramatic",
+          "tags": [
+            "nghiêm trọng hóa",
+            "gay gắt"
+          ]
+        },
+        {
+          "text": "Giả vờ không biết nhưng ghi nhớ trong lòng để sau này lôi ra nhắc",
+          "affinity_delta": -3,
+          "trait": "passive_aggressive",
+          "tags": [
+            "để bụng",
+            "thâm trầm"
+          ]
+        },
+        {
+          "text": "Bắt đối phương đền bù bằng một chầu ăn ngon hoặc một món quà chuộc lỗi",
+          "affinity_delta": 4,
+          "trait": "playful",
+          "tags": [
+            "hài hước",
+            "khéo léo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_38",
+      "category": "habits",
+      "question": "Bạn có thói quen đọc sách hoặc học hỏi kỹ năng mới trong thời gian rảnh không?",
+      "options": [
+        {
+          "text": "Thường xuyên đọc sách phát triển bản thân và học thêm ngoại ngữ/kỹ năng",
+          "affinity_delta": 5,
+          "trait": "growth",
+          "tags": [
+            "ham học",
+            "tiến thủ"
+          ]
+        },
+        {
+          "text": "Thích xem video ngắn trên YouTube hoặc nghe podcast kiến thức hơn",
+          "affinity_delta": 4,
+          "trait": "digital_learner",
+          "tags": [
+            "thích nghi",
+            "nhanh nhạy"
+          ]
+        },
+        {
+          "text": "Đi làm về mệt quá chỉ muốn nằm lướt điện thoại nghỉ ngơi chứ không muốn học",
+          "affinity_delta": 1,
+          "trait": "tired",
+          "tags": [
+            "thật lòng",
+            "ít phấn đấu"
+          ]
+        },
+        {
+          "text": "Thích học hỏi qua trải nghiệm thực tế và giao tiếp ngoài đời hơn sách vở",
+          "affinity_delta": 4,
+          "trait": "experiential",
+          "tags": [
+            "thực tế",
+            "hoạt bát"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_39",
+      "category": "dating",
+      "question": "Sau khi bấm nút hẹn hò hôm nay, bạn dự định buổi gặp thứ hai sẽ làm gì?",
+      "options": [
+        {
+          "text": "Hẹn nhau đi cà phê trò chuyện thật sâu về tính cách và sở thích",
+          "affinity_delta": 5,
+          "trait": "sincere",
+          "tags": [
+            "chân thành",
+            "tinh tế"
+          ]
+        },
+        {
+          "text": "Dẫn về nhà ra mắt bố mẹ và ăn bữa cơm gia đình thân mật",
+          "affinity_delta": 2,
+          "trait": "rushing",
+          "tags": [
+            "vội vã",
+            "nghiêm túc quá"
+          ]
+        },
+        {
+          "text": "Cùng nhau tham gia một hoạt động trải nghiệm như bắn cung, nặn gốm",
+          "affinity_delta": 4,
+          "trait": "creative",
+          "tags": [
+            "thú vị",
+            "năng động"
+          ]
+        },
+        {
+          "text": "Để đối phương chủ động chọn địa điểm, mình sẵn sàng đi theo",
+          "affinity_delta": 3,
+          "trait": "flexible",
+          "tags": [
+            "dễ chịu",
+            "chiều chuộng"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q_40",
+      "category": "values",
+      "question": "Câu châm ngôn sống mà bạn tâm đắc nhất là gì?",
+      "options": [
+        {
+          "text": "'Thuận vợ thuận chồng, tát biển Đông cũng cạn'",
+          "affinity_delta": 5,
+          "trait": "harmonious",
+          "tags": [
+            "đồng lòng",
+            "truyền thống"
+          ]
+        },
+        {
+          "text": "'Hãy sống như ngày hôm nay là ngày cuối cùng được sống'",
+          "affinity_delta": 3,
+          "trait": "carpe_diem",
+          "tags": [
+            "hết mình",
+            "tự do"
+          ]
+        },
+        {
+          "text": "'Muốn đi nhanh hãy đi một mình, muốn đi xa hãy đi cùng nhau'",
+          "affinity_delta": 5,
+          "trait": "companion",
+          "tags": [
+            "gắn kết",
+            "bền bỉ"
+          ]
+        },
+        {
+          "text": "'Thà một phút huy hoàng rồi chợt tối, còn hơn buồn le lói suốt trăm năm'",
+          "affinity_delta": 2,
+          "trait": "passionate",
+          "tags": [
+            "cháy hết mình",
+            "mạo hiểm"
+          ]
+        }
+      ]
+    }
+  ],
+  "minigames": [
+    {
+      "id": "game_1",
+      "name": "Đo Nhịp Tim Yêu",
+      "description": "Hai bạn đeo máy đo nhịp tim, đứng đối diện nhau cách tấm rèm 1 gang tay và nhìn sâu vào mắt nhau trong 30 giây.",
+      "rules": "Người chơi chọn chủ đề khen ngợi đối phương. Nếu tim đối phương đập nhanh hơn mức bình thường (+15 bpm), nhận thưởng điểm hảo cảm tối đa.",
+      "mechanic": "heartbeat_gauge",
+      "affinityBonus": 8,
+      "penalty": -2
+    },
+    {
+      "id": "game_2",
+      "name": "Tam Sao Thất Bản Khẩu Hình",
+      "description": "Đeo tai nghe bật nhạc cực lớn, một người truyền tải thông điệp ngọt ngào chỉ bằng khẩu hình miệng cho người kia đoán.",
+      "rules": "Đoán trúng 2/3 cụm từ tình cảm mà MC đưa ra (ví dụ: 'Anh thương em', 'Mình cùng ăn cơm nha', 'Em đẹp lắm').",
+      "mechanic": "lip_sync_guess",
+      "affinityBonus": 6,
+      "penalty": 0
+    },
+    {
+      "id": "game_3",
+      "name": "Tâm Đầu Ý Hợp 1-2-3",
+      "description": "MC đưa ra 5 cặp lựa chọn nhanh (Trà sữa hay Cà phê, Biển hay Núi, Phở hay Bún bò, Dậy sớm hay Ngủ nướng, Chó hay Mèo).",
+      "rules": "Cả hai cùng giơ bảng trả lời cùng một lúc tại nhịp đếm thứ 3 của Chú Tư. Càng trùng khớp nhiều điểm tương thích càng cao.",
+      "mechanic": "instant_choice_sync",
+      "affinityBonus": 10,
+      "penalty": -3
+    },
+    {
+      "id": "game_4",
+      "name": "Hộp Quà Duyên Nợ",
+      "description": "Người chơi chọn 1 trong 3 hộp quà bí mật mang lên sân khấu để gửi sang bên kia rèm cho đối phương mở khám phá.",
+      "rules": "Hộp quà phù hợp đúng sở thích hoặc tính cách NPC sẽ tăng vọt chỉ số hảo cảm, nếu trúng món đồ tối kỵ sẽ bị trừ điểm.",
+      "mechanic": "mystery_gift_box",
+      "affinityBonus": 9,
+      "penalty": -6
+    },
+    {
+      "id": "game_5",
+      "name": "Nấu Món Tình Yêu (Blind Cook)",
+      "description": "Người chơi đứng sau lưng cầm tay hướng dẫn nửa kia nêm nếm gia vị cho một tô canh khổ qua trên sân khấu.",
+      "rules": "Phối hợp nhịp nhàng chọn đúng thứ tự gia vị: Muối -> Tiêu -> Hành hoa -> Nước mắm trong vòng 45 giây.",
+      "mechanic": "co-op_cooking_timer",
+      "affinityBonus": 7,
+      "penalty": -1
+    },
+    {
+      "id": "game_6",
+      "name": "Nốt Nhạc Nối Lời",
+      "description": "MC hát mở đầu một câu hát trữ tình hoặc dân ca quen thuộc, hai người chơi phải thay phiên nhau hát tiếp nối đúng nhịp.",
+      "rules": "Chọn đúng lời bài hát trong 3 phương án gợi ý để hoàn thành giai điệu ngọt ngào gửi gắm đến nửa kia.",
+      "mechanic": "singing_chain",
+      "affinityBonus": 6,
+      "penalty": -1
+    },
+    {
+      "id": "game_7",
+      "name": "Bịt Mắt Đoán Bàn Tay",
+      "description": "Người chơi bị bịt mắt bằng dải lụa đỏ, chạm nhẹ vào 3 bàn tay (trong đó có bàn tay của NPC và 2 trợ lý trường quay) để tìm đúng nửa kia.",
+      "rules": "Dựa vào độ ấm, độ mềm mại và trực giác để chọn đúng bàn tay của người bạn muốn hẹn hò.",
+      "mechanic": "blindfold_touch_test",
+      "affinityBonus": 8,
+      "penalty": -4
+    },
+    {
+      "id": "game_8",
+      "name": "Bức Tranh Đồng Điệu",
+      "description": "Mỗi người được phát một bảng vẽ nhỏ, trong 60 giây cùng vẽ biểu tượng đại diện cho ngôi nhà tương lai của hai người.",
+      "rules": "Nếu cả hai cùng vẽ chi tiết trùng khớp (cùng vẽ có sân vườn, có thú cưng, hoặc mái ngói đỏ), điểm tương hợp tăng vọt.",
+      "mechanic": "drawing_match",
+      "affinityBonus": 7,
+      "penalty": 0
+    },
+    {
+      "id": "game_9",
+      "name": "Vũ Điệu Quả Táo",
+      "description": "Hai người kẹp quả táo giữa trán mà không được dùng tay, cùng nhau di chuyển vượt qua một đoạn đường chướng ngại vật ngắn trên sân khấu.",
+      "rules": "Giữ quả táo không rơi trong 30 giây để kiểm tra độ khéo léo và mức độ ăn ý về thể chất.",
+      "mechanic": "balance_challenge",
+      "affinityBonus": 9,
+      "penalty": -3
+    },
+    {
+      "id": "game_10",
+      "name": "Lời Thì Thầm Đếm Ngược",
+      "description": "Khi ánh đèn sân khấu mờ dần, mỗi người có đúng 20 giây nói một lời chân thật nhất từ tận đáy lòng với đối phương.",
+      "rules": "Lựa chọn tông giọng và nội dung lời thoại: Hài hước hóm hỉnh, Chân thành xúc động, hay Hào sảng quyết liệt để chạm vào tim đối phương.",
+      "mechanic": "emotional_confession",
+      "affinityBonus": 10,
+      "penalty": -5
+    }
+  ],
+  "dialogues": {
+    "chu_tu_duyen": {
+      "nguong": [
+        "Ủa alo... sao tự nhiên nguyên cái trường quay im ru như tờ vậy trời?!",
+        "Chú Tư đứng giữa hai đứa mà da gà nổi cục cục luôn nè bà con ơi!",
+        "Trời đất ơi, ngượng ngùng cái gì mà mặt đỏ như con tôm luộc rồi kìa con gái!",
+        "Hai đứa nhìn nhau làm chi rồi cúi mặt xuống cười tủm tỉm một mình vậy ta?",
+        "Hổng lẽ giờ chú Tư hát một bài bolero giải vây cho hai đứa đỡ khớp ta?",
+        "Kìa kìa, bàn tay run run hổng dám đụng vô luôn, can đảm lên coi chàng trai!",
+        "Chú mai mối cả trăm cặp rồi mà chưa thấy ai mắc cỡ dữ dằn như bạn nam này nha!",
+        "Mai Hạnh ơi, em coi kìa, hai đứa nó đứng cách nhau cả thước như sợ lây bệnh vậy đó!",
+        "Thôi thôi thở sâu vô con ơi, ở đây toàn người nhà hổng ai ăn thịt con đâu!",
+        "Ủa rồi có tính mở miệng nói chuyện hông hay tính đứng ngó nhau tới hết giờ phát sóng nè?",
+        "Cái nết ngượng ngùng này coi bộ dễ thương à nhen, bà con dưới vỗ tay cổ vũ cái coi!",
+        "Mặt bạn trai đỏ hơn cái cà vạt của chú Tư đang đeo luôn rồi đó!",
+        "Đứng sát vô chút xíu đi nè, gió thổi một cái là bay qua hai đầu cầu bến tre bây giờ!",
+        "Trời ơi ngượng chi mà ngượng dữ vậy, làm chú Tư cũng thấy xốn xang lây nè!",
+        "Mắc cỡ quá thì nhìn chú Tư nè, nhìn cái mặt chú cho bớt run rồi nói tiếp!"
+      ],
+      "bat_ngo": [
+        "HẢ?! Cái gì?! Chú Tư hổng có nghe lầm đó chứ bà con cô bác ơi?!",
+        "Trời đất quỷ thần ơi! Cú bẻ lái này gắt hơn cua đèo Hải Vân nữa nè!",
+        "Ủa alo?! Nãy giờ nói chuyện ngọt như mía lùi mà sao giờ ra chiêu này?!",
+        "Tui xỉu ngang tại chỗ liền bây giờ nè! Bất ngờ quá trời quá đất rồi!",
+        "Trời ơi là trời! Chú Tư làm MC bao nhiêu năm mà bữa nay xém rớt cái mic luôn!",
+        "Cái pha xử lý này đi vào lòng đất hay lên mây xanh đây trời ơi?!",
+        "Ghê chưa ghê chưa! Coi bộ bạn nữ này không phải dạng vừa đâu nha!",
+        "Bà con ơi vỗ tay rần rần lên coi! Kịch bản phim Hàn Quốc cũng hổng bằng pha này!",
+        "Ủa chứ nãy nói là thích người hiền lành mà sao giờ đổi gu cái rụp vậy bạn nam?",
+        "Tới công chuyện luôn rồi! Chuyến này chú Tư phải lấy chai dầu gió ra xức mới được!",
+        "Trời ơi chấn động luôn! Trường quay bữa nay nóng hơn nồi lẩu thái chua cay!",
+        "Ai ngờ đâu được! Nhìn mặt hiền khô như cục bột mà ra đòn bất ngờ dữ dằn!",
+        "Bẻ lái ngoạn mục quá con ơi! Làm chú Tư muốn té cái ghế MC luôn á!",
+        "Chuyện gì đang xảy ra vậy Mai Hạnh ơi?! Em có thấy những gì anh đang thấy không?!",
+        "Xuất sắc luôn! Cú này xứng đáng ghi vào lịch sử 'Bạn Muốn Hẹn Hò' nha!"
+      ],
+      "chot_doi": [
+        "BẬT ĐÈN RỒI! BÀ CON CÔ BÁC ƠI CẢ HAI CÙNG BẬT ĐÈN RỒI! VỖ TAY LÊN NÀO!",
+        "Trời ơi chú Tư mừng muốn khóc luôn nè! Đẹp đôi quá trời đẹp đôi rồi hai đứa ơi!",
+        "Ây da! Chuyến này chú Tư chắc chắn có thiệp mời ăn đám cưới rồi nha!",
+        "Trường quay nổi pháo hoa rần rần rồi! Chúc mừng hai bạn đã tìm thấy nhau!",
+        "Một hai ba... hun một cái đi chứ còn chờ đợi cái gì nữa chàng trai ơi!",
+        "Chú nói có sai đâu mà! Nồi nào úp vung nấy, duyên nợ trời se chặt bưng luôn rồi!",
+        "Mai Hạnh ơi, chương trình hôm nay đại thành công rực rỡ rồi em ơi!",
+        "Nắm chặt tay nhau vô nghe chưa, nắm rồi là không có buông ra đâu đó nghen!",
+        "Chú Tư đại diện chương trình trao cái cúp tình yêu và phần quà kỷ niệm liền!",
+        "Bà con hai họ chuẩn bị mâm trầu buồng cau đi là vừa rồi đó nghen cô bác ơi!",
+        "Tấm rèm kéo ra nối liền hai trái tim! Coi cái mặt cười toe toét thấy cưng ghê hông!",
+        "Chúc hai con răng long đầu bạc, trăm năm hạnh phúc, sớm sinh quý tử nghe!",
+        "Đó thấy chưa! Dũng cảm bật đèn là có ngay người yêu đem về ra mắt ba mẹ liền!",
+        "Hôm nay chú Tư ngủ ngon giấc rồi, se duyên thành công một cặp quá ư là xứng đôi!",
+        "Vỗ tay rần rần nữa đi khán giả ơi! Cặp đôi vàng của mùa phát sóng năm nay đây rồi!"
+      ],
+      "that_bai": [
+        "Hổng sao hết con ơi! Duyên chưa tới thì mình chờ, người tốt còn ở phía trước mà!",
+        "Tiếc quá bà con ơi! Nhưng mà không sao, tình cảm là chuyện không thể gượng ép!",
+        "Ủa trút chìa khóa rồi... Thôi không sao, làm bạn bè tốt của nhau vẫn quý giá mà!",
+        "Chú Tư chúc cho cả hai đứa sớm tìm được một nửa đích thực của đời mình nhen!",
+        "Hôm nay coi như mình có thêm một người bạn mới, thêm một niềm vui trong đời con há!",
+        "Đừng có buồn nghen con gái, con dễ thương vậy mai mốt khối chàng xếp hàng theo đuổi!",
+        "Bạn nam cũng đừng nản lòng nhen, đàn ông bản lĩnh sợ gì không có duyên lành!",
+        "Mai Hạnh với chú Tư luôn mở rộng cửa đón chào các bạn tìm kiếm tình yêu mà!",
+        "Thôi cười lên cái coi nè, ra về trong êm đẹp và văn minh là tuyệt vời nhất rồi!",
+        "Duyên số là chuyện của ông trời, chú Tư se duyên thôi chứ không ép buộc được nè!",
+        "Cảm ơn hai bạn đã rất chân thành và dũng cảm đứng trên sân khấu hôm nay!",
+        "Dù đèn không bật nhưng chú Tư thấy hai bạn đã có một buổi trò chuyện rất ý nghĩa!",
+        "Không thành đôi thì thành bạn, biết đâu mai mốt lại rủ nhau đi cà phê hợp cạ!",
+        "Cố lên hai bạn trẻ! Đường tình còn dài, cứ tự tin yêu đời rồi hoa sẽ nở nghen!",
+        "Khán giả hãy dành một tràng pháo tay thật nồng nhiệt để khích lệ tinh thần hai bạn nào!"
+      ]
+    },
+    "chi_mai_hanh": {
+      "nguong": [
+        "Dạ Mai Hạnh thấy tim bạn nữ đang đập nhanh lắm rồi đó chú Tư ơi...",
+        "Hai bạn cứ bình tĩnh hít một hơi thật sâu nha, ai lần đầu đứng đây cũng run như vậy hết đó.",
+        "Nụ cười bẽn lẽn của bạn gái làm Mai Hạnh nhớ lại hồi mình mới biết yêu ghê.",
+        "Ánh mắt ngượng ngùng nhưng chứa đầy sự chân thành kìa hai bạn ơi.",
+        "Đừng lo lắng quá nè, có Chị Mai Hạnh với Chú Tư luôn đồng hành bên cạnh hai bạn mà.",
+        "Mai Hạnh thấy hai bạn nhìn nhau e ấp như đôi chim non vậy, cưng thiệt là cưng!",
+        "Dạ không sao đâu bạn nam ơi, cứ từ từ mở lòng chia sẻ những điều từ đáy lòng nha.",
+        "Cái nắm tay ngập ngừng lúc nãy làm Mai Hạnh xúc động ghê luôn á.",
+        "Một chút e ấp ban đầu sẽ làm cho kỷ niệm của buổi gặp mặt này đáng nhớ hơn đó.",
+        "Chị thấy hai má bạn gái ửng hồng lên rồi kìa, dễ thương làm sao!",
+        "Cứ xem như đây là một buổi hẹn hò cà phê ấm cúng chỉ có hai người thôi nha.",
+        "Sự ngượng ngùng đáng yêu này chứng tỏ hai bạn đang rất tôn trọng cảm xúc của nhau.",
+        "Mai Hạnh hiểu cảm giác này mà, hồi hộp đến mức nghẹn lời luôn đúng không nè?",
+        "Bạn nam hãy ga-lăng nói một câu khen ngợi nhẹ nhàng để bạn nữ bớt run nha.",
+        "Dạ thưa quý vị khán giả, những rung động đầu đời lúc nào cũng trong trẻo và ngượng ngùng như thế này đây ạ."
+      ],
+      "bat_ngo": [
+        "Ôi trời ơi! Thật sự là Mai Hạnh không thể ngờ tới câu trả lời bất ngờ này luôn đó!",
+        "Một ngã rẽ hoàn toàn ngoài dự đoán của ban cố vấn chương trình luôn ạ!",
+        "Mai Hạnh nổi cả da gà luôn chú Tư ơi, bạn gái hôm nay quá sức là cá tính và bản lĩnh!",
+        "Thật sự bất ngờ trước sự thẳng thắn và dũng cảm bộc lộ quan điểm của hai bạn.",
+        "Chà, tình huống này làm Mai Hạnh phải suy nghĩ lại về góc nhìn tình yêu của giới trẻ ngày nay rồi đó.",
+        "Một câu nói làm thay đổi hoàn toàn cục diện của cuộc trò chuyện luôn nè!",
+        "Mai Hạnh đứng bên này mà tim cũng muốn nhảy ra ngoài vì bất ngờ luôn á!",
+        "Dạ thưa quý vị, đúng là trong tình yêu không có kịch bản nào có thể đoán trước được!",
+        "Bạn nam làm cho cả trường quay phải ồ lên một tiếng đầy ngạc nhiên luôn kìa!",
+        "Cú twist này thực sự làm cho buổi mai mối hôm nay kịch tính hơn bao giờ hết!",
+        "Mai Hạnh bất ngờ nhưng lại rất thích sự chân thật và không màu mè của hai bạn.",
+        "Ôi bất ngờ quá, hai bạn có những điểm chung bí mật mà đến phút chót mới chịu bật mí nha!",
+        "Chuyện gì cũng có thể xảy ra trên sân khấu Bạn Muốn Hẹn Hò đúng không quý vị!",
+        "Một khoảnh khắc bất ngờ đến thót tim nhưng vô cùng thú vị và đáng yêu!",
+        "Mai Hạnh phải dành lời khen cho sự quyết đoán và bất ngờ mà bạn vừa mang lại!"
+      ],
+      "chot_doi": [
+        "Chúc mừng hai bạn! Trái tim đã cùng chung một nhịp đập rồi, thật là hạnh phúc!",
+        "Mai Hạnh thực sự xúc động muốn rơi nước mắt khi thấy hai đốm sáng tình yêu cùng bừng nở!",
+        "Duyên nợ là có thật trong cuộc đời này, chúc hai bạn cùng nhau vun đắp một tương lai rạng rỡ!",
+        "Nụ cười rạng ngời của hai bạn lúc này chính là món quà ý nghĩa nhất dành cho chương trình.",
+        "Hãy trân trọng khoảnh khắc này và luôn nắm chặt tay nhau trên mọi chặng đường sắp tới nhé!",
+        "Mai Hạnh tin rằng sự bao dung và thấu hiểu hôm nay sẽ là nền tảng cho một gia đình hạnh phúc.",
+        "Tiếng chuông hòa nhịp báo hiệu một chương mới tuyệt đẹp đã chính thức bắt đầu rồi hai bạn ơi!",
+        "Nhìn hai bạn đứng bên nhau thật sự rất có tướng phu thê, chúc mừng hạnh phúc lứa đôi!",
+        "Mai Hạnh xin chúc cho tình yêu của hai bạn luôn nồng nàn và ấm áp như ngày đầu tiên gặp gỡ.",
+        "Bàn tay đã nắm lấy bàn tay, mong rằng hai bạn sẽ cùng nhau đi đến bến bờ hạnh phúc trọn vẹn.",
+        "Khán giả trường quay đang gửi đến hai bạn những lời chúc phúc ngọt ngào và chân thành nhất đấy ạ.",
+        "Một cái kết viên mãn làm ấm lòng tất cả những ai tin vào tình yêu đích thực!",
+        "Hai bạn hãy trao cho nhau cái ôm ấm áp để ghi dấu kỷ niệm thiêng liêng này nhé!",
+        "Mai Hạnh hy vọng sớm nhận được thiệp hồng và tin vui từ hai bạn trong thời gian tới nha!",
+        "Dạ xin quý vị hãy dành một tràng pháo tay thật dài để chúc phúc cho tình yêu tuyệt đẹp của hai bạn trẻ ạ!"
+      ],
+      "that_bai": [
+        "Không sao đâu hai bạn ơi, mỗi cuộc gặp gỡ trong đời đều là một cái duyên đáng trân trọng.",
+        "Mai Hạnh tin rằng khi một cánh cửa khép lại, sẽ có một cánh cửa hạnh phúc khác mở ra đón chờ bạn.",
+        "Cảm ơn hai bạn đã sống thật với cảm xúc của mình, thành thật luôn là điều đáng quý nhất.",
+        "Đừng buồn nhé bạn gái ơi, em là một cô gái rất tuyệt vời và xứng đáng được yêu thương trọn vẹn.",
+        "Bạn nam cũng rất chân thành và chững chạc, chỉ là chữ duyên chưa đủ chín muồi mà thôi.",
+        "Làm bạn của nhau sau chương trình cũng là một khởi đầu đẹp và văn minh mà đúng không nè?",
+        "Mai Hạnh chúc hai bạn luôn lạc quan, yêu đời và luôn giữ niềm tin son sắt vào tình yêu đích thực.",
+        "Hành trình tìm kiếm một nửa của mình cần một chút kiên nhẫn, duyên lành rồi sẽ đến đúng lúc thôi.",
+        "Cảm ơn hai bạn đã mang đến cho sân khấu hôm nay những chia sẻ rất chân thành và sâu sắc.",
+        "Dù hôm nay đèn không bật, nhưng tình bạn và sự tôn trọng lẫn nhau vẫn mãi còn đó.",
+        "Mỉm cười lên nhé hai bạn, cánh cửa của Bạn Muốn Hẹn Hò luôn mở rộng chào đón các bạn.",
+        "Mai Hạnh cảm nhận được sự văn minh và lịch thiệp trong cách từ chối nhẹ nhàng của cả hai.",
+        "Không có gì phải nuối tiếc cả, vì ít nhất chúng ta đã dũng cảm trao cho nhau cơ hội gặp gỡ.",
+        "Chúc hai bạn trên con đường phía trước sẽ luôn gặp nhiều may mắn, bình an và hạnh phúc.",
+        "Xin khán giả hãy dành những tràng pháo tay ấm áp để đồng cảm và tiếp thêm động lực cho hai bạn ạ!"
+      ]
+    }
+  }
+}
